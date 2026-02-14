@@ -61,10 +61,9 @@ Select +Add New Role near the top-right of the Roles page. Name our Role "Super 
 <p>Departments are used for seperating tickets to their assigned departments and ticket visibility, think Help Desk vs SysAdmins vs Networking. 
 
 Let's create a new department. In Admin Panel, Agents tab, select the Departments section. Select +Add New Department. For the Name, type SysAdmins.  Observe the settings and see different options that can be set. Near the top, select the Access tab and observe that we are able to assign Agents to the department if needed. Select Create Dept. We'll assign agents to the department later.</p>
+<img width="345" height="440" alt="Step 34 Admin Panel, SysAdmins was created" src="https://github.com/user-attachments/assets/e3c2698f-cb60-4f33-ad8d-8f6e4ea0f072" />
 
-<details><summary>See screenshots</summary>
-<img src="images/Step 2a.PNG" width="40%" >
-</details> 
+
 
 <h3>3. CONFIGURE TEAMS</h3>
 <p>Teams are used to group staff members from different departments who are responsible for a specific function. For example, in a banking environment, a team might be created for online banking support and include a system administrator, a network technician, and help desk staff working together to resolve related issues. 
