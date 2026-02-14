@@ -79,11 +79,16 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 <h3>4. CONFIGURE AGENTS</h3>
 <p>Agents are the support staff in osTicket who handle incoming tickets, communicate with users, and update ticket status based on their assigned roles, departments, and teams.
 
-We will create two users. In the Agents tab, select the Agents section, and select +Add New Agent. Create Jane Doe, use any email, set Username: jane_admin select Set Password. Unmark the Send the agent a password reset email, set password as <code>Password123!</code>, unmark the Require password change at next logon checkbox and select Set. In Access tab, assign Jane to SysAdmin Department, Super Admins Role, and in Teams tab, assign to Online Banking Team and select Create. 
+We will create two users. In the Agents tab, select the Agents section, and select +Add New Agent. Create Susan Smith, use any email, set Username: Susan select Set Password. Unmark the Send the agent a password reset email, set password as <code>Password2</code>, unmark the Require password change at next logon checkbox and select Set. In Access tab, assign Susan to SysAdmin Department, Super Admins Role, and in Teams tab, assign to Online Banking Team and select Create. 
 
-<details><summary>See screenshots</summary>
-<img src="images/Step 4a.PNG" width="40%" >
-</details> 
+<img width="324" height="328" alt="Step 43 Admin Panel, click Agent tab for online banking click Add New Agent" src="https://github.com/user-attachments/assets/b371baac-1309-4d4b-9a4e-c4ec75abddbb" /><img width="387" height="303" alt="Step 44 Admin Panel, Creating an actual Admin Account" src="https://github.com/user-attachments/assets/dda5ace7-d255-4715-b100-a679465749ac" /><img width="338" height="326" alt="Step 45 Admin Panel, Admin Account click Set Password" src="https://github.com/user-attachments/assets/0336d298-8402-4a78-a525-6868243b1443" /><img width="324" height="349" alt="Step 46 Admin Panel, Admin New Agent,can set the password" src="https://github.com/user-attachments/assets/dbd12861-b62d-453b-8bd5-9c4c47c094f3" /><img width="350" height="304" alt="Step 47 Admin Panel, Click Access Tab, and click Select Depart Dropdown" src="https://github.com/user-attachments/assets/69a08cb6-0a1b-4337-ae6b-663dde36d26d" /><img width="304" height="316" alt="Step 48 Admin Panel, click Select Role Dropdown" src="https://github.com/user-attachments/assets/9b113946-3297-4949-bf08-93d3f4905f74" /><img width="399" height="321" alt="Step 49 Admin Panel, Agents Teams click Online Banking" src="https://github.com/user-attachments/assets/6b0b2548-4140-4e92-a8ec-329ca0b22aff" />
+
+
+
+
+
+
+
 
 Create John Doe, username: john_user and set password to the same as Jane's for lab ease, and add user to Support Department, view only Role and select Create.
 
