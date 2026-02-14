@@ -90,12 +90,13 @@ We will create two users. In the Agents tab, select the Agents section, and sele
 
 
 
-Create John Doe, username: john_user and set password to the same as Jane's for lab ease, and add user to Support Department, view only Role and select Create.
+Create Sam Hancock, username: Sam_user and set password to Password3 for lab ease, and add user to Support Department, view only Role and select Create.
 
 Before we leave the Admin panel, select the Settings tab, select Users section, and make sure we have the "Require registration and login to create tickets" checkbox unmarked.
 
 <img width="333" height="337" alt="Step 51 Admin Panel, Create Agent Level 1 Help Desk Support" src="https://github.com/user-attachments/assets/269a8a88-6ad0-4a63-9c03-0589e28b7b1f" /><img width="368" height="300" alt="Step 52 Admin Panel, Agent Level 1 Help Desk hit Seclecting A Role" src="https://github.com/user-attachments/assets/a55ab9f1-8383-4f7d-8eec-0becfa5bf31a" /><img width="473" height="300" alt="Step 53 Admin Panel, Help Desk Level 1 hit Select A Role, View only" src="https://github.com/user-attachments/assets/d830cc28-0969-4888-b5c3-1762ca2b3c5b" />
-<img width="374" height="309" alt="Step 57 Admin Panel, SysAdmin under Agents,Account Tab Type password" src="https://github.com/user-attachments/assets/e872bca0-9935-4b09-844b-492f12cc22e9" />
+<img width="374" height="309" alt="Step 57 Admin Panel, SysAdmin under Agents,Account Tab Type password" src="https://github.com/user-attachments/assets/e872bca0-9935-4b09-844b-492f12cc22e9" /><img width="459" height="339" alt="Step 59 Admin Panel, Agents Tab click on Sam Help Desk" src="https://github.com/user-attachments/assets/e3669695-e2eb-4f21-b628-241f997625b2" />
+
 
 
 
