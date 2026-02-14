@@ -70,9 +70,10 @@ Let's create a new department. In Admin Panel, Agents tab, select the Department
 
 Select Teams from the Agents tab, and select +Add New Team.  For the Name, type Online Banking. Observe the settings and see different options that can be set, along with ability to assign Agents. Select Create Team</p>
 
-<details><summary>See screenshots</summary>
-<img src="images/Step 3a.PNG" width="40%" >
-</details> 
+<img width="463" height="333" alt="Step 36 click on the Teams Tab, the click create New Team button" src="https://github.com/user-attachments/assets/25a5d1e3-7aad-4f81-bac2-0a9c7dd27a64" /><img width="385" height="382" alt="Step 37 Admin Panel, Teams Field typing Online Banking in Name Field" src="https://github.com/user-attachments/assets/11d9c525-c175-43ef-832c-a561ef94112c" /><img width="377" height="319" alt="Step 38 Admin Panel, Team Field click Create Team Button for Online Banking Team part2" src="https://github.com/user-attachments/assets/273b76e1-9a8d-4fa3-bdf5-8499a5dc5831" />
+
+
+
 
 
 <h3>4. CONFIGURE AGENTS</h3>
