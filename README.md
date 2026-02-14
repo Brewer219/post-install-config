@@ -103,11 +103,12 @@ Before we leave the Admin panel, select the Settings tab, select Users section, 
 
 
 <h3>5. CONFIGURE USERS</h3>
-<p>To add end users, we need to switch to Agent Panel, select Users tab, select +Add User. Choose any email, for name enter Karen and select Add User. Remember the email as end users will use their email addresses to create tickets, which we'll do in the next lab.</p>
+<p>To add end users, we need to switch to Agent Panel, select Users tab, select +Add User. Choose any email, for name enter Joann and select Add User. Remember the email as end users will use their email addresses to create tickets, which we'll do in the next lab.</p>
 
-<details><summary>See screenshots</summary>
-<img src="images/Step 5a.PNG" width="40%" >
-</details> 
+<img width="396" height="331" alt="Step 63 Agent Panel, click Users, the clck Add New Users Button" src="https://github.com/user-attachments/assets/ad9384d8-30d4-4c1e-822c-0fd7775f9170" /><img width="305" height="328" alt="Step 64 Agent Panel, creating a New User" src="https://github.com/user-attachments/assets/8fb703d7-eb41-4dc7-9ec2-cfba3edf1c9d" /><img width="330" height="304" alt="Step 65 Agent Panel, to config SLA&#39;s click Admin Panel" src="https://github.com/user-attachments/assets/fa27c8ab-64bf-49a4-b6fb-98d37900e97f" />
+
+
+
 
 <h3>6. CONFIGURE SERVICE LEVEL AGREEMENTS (SLA)</h3>
 <p>An SLA defines the expected response and resolution time for tickets based on priority or issue type.
@@ -116,13 +117,13 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
  - Sev-A (Grace period: 1 Hour, Schedule: 24/7)
  - Sev-B (Grace period: 4 Hour, Schedule: 24/7)
  - Sev-C (Grace period: 8 Hour, Schedule: Business Hours)
+   <img width="329" height="373" alt="Step 68 Admin Panel,in SLA Tab, click Add New SLA button" src="https://github.com/user-attachments/assets/9d8d946e-88ee-46db-ae6b-ca5be4ab7cda" /><img width="329" height="373" alt="Step 68 Admin Panel,in SLA Tab, click Add New SLA button" src="https://github.com/user-attachments/assets/75a274f2-b610-4cff-ae57-466813bec218" />
+
+
  
  > [!NOTE]
  > With SLAs, we can prioritize tickets by severity and business impact.</p>
 
-<details><summary>See screenshots</summary>
-<img src="images/Step 6a.PNG" width="30%" > <img src="images/Step 6b.PNG" width="30%" > <img src="images/Step 6c.PNG" width="30%" >
-</details> 
 
 <h3>7. CONFIGURE HELP TOPICS</h3>
 <p>Help Topics help categorize incoming tickets and automatically route them to the appropriate department, priority, or workflow. Can be used by end users or agents.
@@ -134,7 +135,8 @@ In Admin panel, under Manage tab, select Help Topics section. Select +Add New He
  - Password Reset           - Parent Topic: Report a Problem
  - Other                    - Parent Topic: General Inquiry
  </p>
+<img width="352" height="350" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/8fb928b0-d918-4cd2-83e7-721317a90326" /><img width="427" height="325" alt="Step 72 Admin Panel, Help Topics Info type Business Critical Outage, select Report A Problem" src="https://github.com/user-attachments/assets/d6c84f48-7a1e-4879-85d2-0f8716b6ea38" /><img width="306" height="399" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/f949caf7-64d7-4037-8c5e-90e9986dd88e" />
 
-<details><summary>See screenshots</summary>
-<img src="images/Step 7.PNG" width="40%" >
-</details> 
+
+
+
