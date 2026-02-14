@@ -54,10 +54,9 @@ http://localhost/osTicket
 <p>Roles in osTicket group related permissions and are assigned to staff to control what actions they are allowed to perform, let's create a new role. Login to the Admin/Analyst/Agent page. You are currently viewing osTicket as an Agent, observe the Admin link in the top right and select it. From here, select the Agents tab, and select Roles. Select each role and observe each the Permission settings of each.
 
 Select +Add New Role near the top-right of the Roles page. Name our Role "Super Admin", and in the Permissions tab, mark every checkbox in Tickets, Tasks, and Knowledgebase. Select Add Role.</p>
+<img width="450" height="230" alt="Step 28 Admin Panel Under Roles, Add Naming Role" src="https://github.com/user-attachments/assets/e5736156-b2f2-4931-9c93-3b4ec19ef969" />
 
-<details><summary>See screenshots</summary>
-<img src="images/Step 1a.PNG" width="40%" > <img src="images/Step 1b.PNG" width="40%" >
-</details> 
+
 
 <h3>2. CONFIGURE DEPARTMENTS</h3>
 <p>Departments are used for seperating tickets to their assigned departments and ticket visibility, think Help Desk vs SysAdmins vs Networking. 
