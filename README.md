@@ -118,7 +118,8 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
  - Sev-A (Grace period: 1 Hour, Schedule: 24/7)
  - Sev-B (Grace period: 4 Hour, Schedule: 24/7)
  - Sev-C (Grace period: 8 Hour, Schedule: Business Hours)
-   <img width="329" height="373" alt="Step 68 Admin Panel,in SLA Tab, click Add New SLA button" src="https://github.com/user-attachments/assets/9d8d946e-88ee-46db-ae6b-ca5be4ab7cda" /><img width="329" height="373" alt="Step 68 Admin Panel,in SLA Tab, click Add New SLA button" src="https://github.com/user-attachments/assets/75a274f2-b610-4cff-ae57-466813bec218" />
+
+   <img width="329" height="373" alt="Step 68 Admin Panel,in SLA Tab, click Add New SLA button" src="https://github.com/user-attachments/assets/9d8d946e-88ee-46db-ae6b-ca5be4ab7cda" /><img width="390" height="384" alt="Step 69 Admin Panel, SLA Tab Fill out the Fields, and hit Add Plan button" src="https://github.com/user-attachments/assets/2bb8a387-1a2c-4178-9aca-58258716babf" />
 
 
  
