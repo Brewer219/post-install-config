@@ -105,7 +105,8 @@ Before we leave the Admin panel, select the Settings tab, select Users section, 
 <h3>5. CONFIGURE USERS</h3>
 <p>To add end users, we need to switch to Agent Panel, select Users tab, select +Add User. Choose any email, for name enter Joann and select Add User. Remember the email as end users will use their email addresses to create tickets, which we'll do in the next lab.</p>
 
-<img width="396" height="331" alt="Step 63 Agent Panel, click Users, the clck Add New Users Button" src="https://github.com/user-attachments/assets/ad9384d8-30d4-4c1e-822c-0fd7775f9170" /><img width="305" height="328" alt="Step 64 Agent Panel, creating a New User" src="https://github.com/user-attachments/assets/8fb703d7-eb41-4dc7-9ec2-cfba3edf1c9d" /><img width="330" height="304" alt="Step 65 Agent Panel, to config SLA&#39;s click Admin Panel" src="https://github.com/user-attachments/assets/fa27c8ab-64bf-49a4-b6fb-98d37900e97f" />
+<img width="396" height="331" alt="Step 63 Agent Panel, click Users, the clck Add New Users Button" src="https://github.com/user-attachments/assets/5600b6ab-f1e6-4706-bfc1-3783face07f9" />
+<img width="305" height="383" alt="Step 64 Agent Panel, creating a New User" src="https://github.com/user-attachments/assets/d2491c85-0974-4fef-83b7-c5fc80e15577" /><img width="330" height="304" alt="Step 65 Agent Panel, to config SLA&#39;s click Admin Panel" src="https://github.com/user-attachments/assets/11640d3d-4738-4760-b8ef-bea980914bb7" />
 
 
 
@@ -135,7 +136,18 @@ In Admin panel, under Manage tab, select Help Topics section. Select +Add New He
  - Password Reset           - Parent Topic: Report a Problem
  - Other                    - Parent Topic: General Inquiry
  </p>
-<img width="352" height="350" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/8fb928b0-d918-4cd2-83e7-721317a90326" /><img width="427" height="325" alt="Step 72 Admin Panel, Help Topics Info type Business Critical Outage, select Report A Problem" src="https://github.com/user-attachments/assets/d6c84f48-7a1e-4879-85d2-0f8716b6ea38" /><img width="306" height="399" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/f949caf7-64d7-4037-8c5e-90e9986dd88e" />
+<img width="352" height="350" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/8fb928b0-d918-4cd2-83e7-721317a90326" /><img width="327" height="325" alt="Step 72 Admin Panel, Help Topics Info type Business Critical Outage, select Report A Problem" src="https://github.com/user-attachments/assets/d6c84f48-7a1e-4879-85d2-0f8716b6ea38" /><img width="306" height="399" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/f949caf7-64d7-4037-8c5e-90e9986dd88e" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
