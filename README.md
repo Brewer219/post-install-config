@@ -15,7 +15,7 @@ This project demonstrates the configuration of core administrative components wi
 
 <h2>Environments and Technologies Used</h2>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,windows" />&nbsp;&nbsp;<img width="80" height="67" alt="osTicket Logo" src="https://github.com/user-attachments/assets/f5671aaf-1ad2-4741-b35e-54e8ec9fab53" />
+<img src="https://skillicons.dev/icons?i=azure,windows" />&nbsp;&nbsp;<img width="120" height="67" alt="osTicket Logo" src="https://github.com/user-attachments/assets/f5671aaf-1ad2-4741-b35e-54e8ec9fab53" />
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
