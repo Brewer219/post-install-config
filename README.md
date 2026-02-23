@@ -88,7 +88,7 @@ Roles in osTicket group related permissions and are assigned to staff to control
 - Permissions: Mark all checkboxes in the 'Tickets', 'Tasks', and 'Knowledgebase' tabs.
 4. Save Role: Click Add Role.
 
-<img width="309" height="335" alt="Step 13 Admin Panel, Agents, Roles, View only, Permission-Knowledegeables" src="https://github.com/user-attachments/assets/b9244b3c-1878-49a3-ab86-abd8cd2275a9" />
+<img width="409" height="335" alt="Step 13 Admin Panel, Agents, Roles, View only, Permission-Knowledegeables" src="https://github.com/user-attachments/assets/b9244b3c-1878-49a3-ab86-abd8cd2275a9" />
 
 
 
