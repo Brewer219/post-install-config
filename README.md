@@ -131,6 +131,12 @@ Teams are used to group staff members from different departments who are respons
 Select Teams from the Agents tab, and select +Add New Team.  For the Name, type Online Banking. Observe the settings and see different options that can be set, along with ability to assign Agents. Select Create Team</p>
 
 
+<img width="363" height="333" alt="Step 36 click on the Teams Tab, the click create New Team button" src="https://github.com/user-attachments/assets/20930692-cb32-417f-b386-8075ea884cd7" />
+
+
+
+
+
 
 
 
