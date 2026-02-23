@@ -178,6 +178,10 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
   - Email: (Any valid email)
 2. Save User: Click Add User.
 
+<img width="396" height="431" alt="Step 63 Agent Panel, click Users, the clck Add New Users Button" src="https://github.com/user-attachments/assets/ef1328f1-0f95-4eb9-98b6-7eea6d05af37" />
+
+
+
 
 
 <h10>CONFIGURE SERVICE LEVEL AGREEMENTS (SLA)</h10>
@@ -187,6 +191,9 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
  - Sev-A (Grace period: 1 Hour, Schedule: 24/7)
  - Sev-B (Grace period: 4 Hour, Schedule: 24/7)
  - Sev-C (Grace period: 8 Hour, Schedule: Business Hours)
+
+   
+<img width="390" height="384" alt="Step 69 Admin Panel, SLA Tab Fill out the Fields, and hit Add Plan button" src="https://github.com/user-attachments/assets/57b832f4-0111-4c36-b772-489d0a891ca0" />
 
    
 
@@ -210,6 +217,13 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
     Problem
       *Other - Parent Topic: General Inquiry 
  3. Save Help Topics: Click Add for each topic
+
+ <img width="352" height="350" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/78b78a13-2f78-44b4-b9d5-fa93c9e11eda" />
+ 
+
+<img width="306" height="399" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/7b85523d-956e-4d41-abf7-861077b64d25" />
+
+
 
 
 
