@@ -39,8 +39,43 @@ This project demonstrates the configuration of core administrative components wi
 **Admin/Analyst/Agent Login Page:**
 http://localhost/osTicket/scp/login.php 
 
+
+<img width="316" height="450" alt="Screenshot 2026-02-13 001923" src="https://github.com/user-attachments/assets/5fc7125f-e1ae-467b-b43d-00432c2b12d4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **End Users osTicket URL:**
 http://localhost/osTicket 
+
+
+<img width="322" height="389" alt="Screenshot 2026-02-11 111058" src="https://github.com/user-attachments/assets/6d12fa4d-7c93-4638-ae0d-0dea39ff931a" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
