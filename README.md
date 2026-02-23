@@ -88,6 +88,9 @@ Roles in osTicket group related permissions and are assigned to staff to control
 - Permissions: Mark all checkboxes in the 'Tickets', 'Tasks', and 'Knowledgebase' tabs.
 4. Save Role: Click Add Role.
 
+<img width="209" height="335" alt="Step 13 Admin Panel, Agents, Roles, View only, Permission-Knowledegeables" src="https://github.com/user-attachments/assets/b9244b3c-1878-49a3-ab86-abd8cd2275a9" />
+
+
 
 
 
@@ -116,13 +119,13 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 
 <h7>CONFIGURE TEAMS</h7>
-<p>Teams are used to group staff members from different departments who are responsible for a specific function.
+Teams are used to group staff members from different departments who are responsible for a specific function.
 1. Navigate to Teams: Select Teams from the 'Agents' Tab.
 2. Add New Team: Click +Add New Team.
       -Team Name: "online Banking"
 3. Create Team: Click Create Team
  
- For example, in a banking environment, a team might be created for online banking support and include a system administrator, a network technician, and help desk staff working together to resolve related issues. 
+ <p>For example, in a banking environment, a team might be created for online banking support and include a system administrator, a network technician, and help desk staff working together to resolve related issues. 
 
 Select Teams from the Agents tab, and select +Add New Team.  For the Name, type Online Banking. Observe the settings and see different options that can be set, along with ability to assign Agents. Select Create Team</p>
 
