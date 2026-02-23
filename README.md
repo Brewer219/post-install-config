@@ -162,6 +162,8 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 2. Settings: In the Settings tab, ensure "Require registration and login to create tickets" is unchecked.
 
 
+<img width="333" height="337" alt="Step 51 Admin Panel, Create Agent Level 1 Help Desk Support" src="https://github.com/user-attachments/assets/5ada3f8e-422e-49ff-85ce-7b399c2abff1" /> 
+<img width="313" height="331" alt="Step 58 Admin Panel, Accounts Tab click Agents" src="https://github.com/user-attachments/assets/386ca4fc-13dc-4f36-92e8-4c43e74118cf" />
 
 
 
