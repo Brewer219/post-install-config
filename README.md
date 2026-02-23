@@ -106,6 +106,7 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 
 
+<img width="396" height="367" alt="Step 35 Admin Panel, in creating new Depart click Create Dept Tab " src="https://github.com/user-attachments/assets/5e7e7381-a3c9-49bd-83ae-6eeb42151be1" />
 
 
 
