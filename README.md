@@ -103,6 +103,18 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <h7>CONFIGURE TEAMS</h7>
 <p>Teams are used to group staff members from different departments who are responsible for a specific function.
 1. Navigate to Teams: Select Teams from the 'Agents' Tab.
