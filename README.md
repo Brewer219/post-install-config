@@ -62,6 +62,10 @@ http://localhost/osTicket/scp/login.php
 **End Users osTicket URL:**
 http://localhost/osTicket 
 
+<details><summary>See screenshot</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
 
 <img width="322" height="389" alt="Screenshot 2026-02-11 111058" src="https://github.com/user-attachments/assets/6d12fa4d-7c93-4638-ae0d-0dea39ff931a" />
 
@@ -88,6 +92,10 @@ Roles in osTicket group related permissions and are assigned to staff to control
 - Permissions: Mark all checkboxes in the 'Tickets', 'Tasks', and 'Knowledgebase' tabs.
 4. Save Role: Click Add Role.
 
+<details><summary>See screenshot</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
 <img width="409" height="335" alt="Step 13 Admin Panel, Agents, Roles, View only, Permission-Knowledegeables" src="https://github.com/user-attachments/assets/b9244b3c-1878-49a3-ab86-abd8cd2275a9" />
 
 
@@ -103,7 +111,10 @@ Roles in osTicket group related permissions and are assigned to staff to control
    -Department Name: "SysAdmins"
  3. Access Settings: Click the Access tab to assign agents to the department if needed.
  4. Create Department: Click Create Dept.
-
+ 
+<details><summary>See screenshot</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 
 
 <img width="396" height="367" alt="Step 35 Admin Panel, in creating new Depart click Create Dept Tab " src="https://github.com/user-attachments/assets/5e7e7381-a3c9-49bd-83ae-6eeb42151be1" />
@@ -129,6 +140,10 @@ Teams are used to group staff members from different departments who are respons
  <p>For example, in a banking environment, a team might be created for online banking support and include a system administrator, a network technician, and help desk staff working together to resolve related issues. 
 
 Select Teams from the Agents tab, and select +Add New Team.  For the Name, type Online Banking. Observe the settings and see different options that can be set, along with ability to assign Agents. Select Create Team</p>
+
+<details><summary>See screenshot</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 
 
 <img width="363" height="333" alt="Step 36 click on the Teams Tab, the click create New Team button" src="https://github.com/user-attachments/assets/20930692-cb32-417f-b386-8075ea884cd7" />
@@ -161,8 +176,16 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
   - Role: View Only
 2. Settings: In the Settings tab, ensure "Require registration and login to create tickets" is unchecked.
 
+<details><summary>See screenshot 1</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
 
 <img width="333" height="337" alt="Step 51 Admin Panel, Create Agent Level 1 Help Desk Support" src="https://github.com/user-attachments/assets/5ada3f8e-422e-49ff-85ce-7b399c2abff1" /> 
+
+<details><summary>See screenshot 2</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 <img width="313" height="331" alt="Step 58 Admin Panel, Accounts Tab click Agents" src="https://github.com/user-attachments/assets/386ca4fc-13dc-4f36-92e8-4c43e74118cf" />
 
 
@@ -178,6 +201,10 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
   - Email: (Any valid email)
 2. Save User: Click Add User.
 
+<details><summary>See screenshot</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
 <img width="396" height="431" alt="Step 63 Agent Panel, click Users, the clck Add New Users Button" src="https://github.com/user-attachments/assets/ef1328f1-0f95-4eb9-98b6-7eea6d05af37" />
 
 
@@ -191,6 +218,10 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
  - Sev-A (Grace period: 1 Hour, Schedule: 24/7)
  - Sev-B (Grace period: 4 Hour, Schedule: 24/7)
  - Sev-C (Grace period: 8 Hour, Schedule: Business Hours)
+
+   <details><summary>See screenshot</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 
    
 <img width="390" height="384" alt="Step 69 Admin Panel, SLA Tab Fill out the Fields, and hit Add Plan button" src="https://github.com/user-attachments/assets/57b832f4-0111-4c36-b772-489d0a891ca0" />
@@ -218,7 +249,16 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
       *Other - Parent Topic: General Inquiry 
  3. Save Help Topics: Click Add for each topic
 
+<details><summary>See screenshot 1</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+ 
+
  <img width="352" height="350" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/78b78a13-2f78-44b4-b9d5-fa93c9e11eda" />
+
+ <details><summary>See screenshot 2</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
  
 
 <img width="306" height="399" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/7b85523d-956e-4d41-abf7-861077b64d25" />
