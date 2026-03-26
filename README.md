@@ -36,6 +36,11 @@ This project demonstrates the configuration of core administrative components wi
 > [!NOTE] 
 > This project builds upon a prior lab where the Azure environment, virtual machine, and osTicket were initially deployed.
 
+
+<details><summary>See screenshot</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
 **Admin/Analyst/Agent Login Page:**
 http://localhost/osTicket/scp/login.php 
 
