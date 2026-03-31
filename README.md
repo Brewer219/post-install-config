@@ -225,21 +225,21 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 
 
 
-<h8>CONFIGURE AGENTS</h8>
+## <h8>CONFIGURE AGENTS</h8>
 <p>Agents are the support staff in osTicket who handle incoming tickets, communicate with users, and update ticket status based on their assigned roles, departments, and teams. We will create two users. In the Agents tab, select the Agents section, and select +Add New Agent. Create Susan Smith, use any email.</p>
 1. Add New Agent: In the Agents tab, select +Add New Agent.
 - Agent 1:
  - Name: Susan Smith
  - Email: (Any valid email)
  - Username: Susan
- - Password: Password2
+ - Password: Password3
  - Department: SysAdmin
  - Role: Super Admin
  - Team: Online Banking
 - Agent 2:
-  - Name: Sam Hancock
-  - Username: Sam
-  - Password: Password3
+  - Name: Samuel Hancock
+  - Username: samuel
+  - Password: Password4
   - Department: Support
   - Role: View Only
 2. Settings: In the Settings tab, ensure "Require registration and login to create tickets" is unchecked.
@@ -254,6 +254,7 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
+
 <img width="313" height="331" alt="Step 58 Admin Panel, Accounts Tab click Agents" src="https://github.com/user-attachments/assets/386ca4fc-13dc-4f36-92e8-4c43e74118cf" />
 
 
@@ -266,14 +267,68 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 <p>To add end users, we need to switch to Agent Panel, select Users tab, select +Add User. Choose any email, for name enter Joann and select Add User. Remember the email as end users will use their email addresses to create tickets, which we'll do in the next lab.</p>
 1. Navigate to Users: Select Users tab and click +Add User.
   - User Name: 'Joann'
-  - Email: (Any valid email)
+  - Email: Joann@lognpacific.com
 2. Save User: Click Add User.
 
-<details><summary>See screenshot</summary>
+<details><summary>See screenshot 1</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="321" height="467" alt="Once in Agent Panel click on Users tab to create new users" src="https://github.com/user-attachments/assets/831d5471-1faf-4cff-9191-8144fb8bde22" />
+
+<details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="396" height="431" alt="Step 63 Agent Panel, click Users, the clck Add New Users Button" src="https://github.com/user-attachments/assets/ef1328f1-0f95-4eb9-98b6-7eea6d05af37" />
+<img width="321" height="467" alt="Once inside User Directory click the &#39;Add User&#39; button" src="https://github.com/user-attachments/assets/8c6474ae-54ff-40f8-87c9-a7de85e4f37d" />
+
+<details><summary>See screenshot 3</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Created a User name &#39;Joann&#39;" src="https://github.com/user-attachments/assets/6c450b85-8ea3-4062-84fe-f2be4b964506" />
+
+
+<details><summary>See screenshot 4</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Created a User name &#39;Joann&#39; (2)" src="https://github.com/user-attachments/assets/d0846889-c45c-4aef-99c7-933be82caa9b" />
+
+<details><summary>See screenshot 5</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Joann the user is finally created" src="https://github.com/user-attachments/assets/6663dce5-a69c-4a0a-aec8-ead5995a53cf" />
+
+<details><summary>See screenshot 6</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Joann the user is finally created" src="https://github.com/user-attachments/assets/b66d38bb-e7d8-4e2a-bdaa-3bd5ea980ea1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
