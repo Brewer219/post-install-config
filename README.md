@@ -133,20 +133,52 @@ Roles in osTicket group related permissions and are assigned to staff to control
  3. Access Settings: Click the Access tab to assign agents to the department if needed.
  4. Create Department: Click Create Dept.
  
-<details><summary>See screenshot</summary>
+<details><summary>See screenshot 1</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Trying to Configure &#39;Departments&#39; dashboard go to &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/a18baa48-d9b4-49a8-a37d-cb49f3dce383" />
+
+<details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 
-<img width="396" height="367" alt="Step 35 Admin Panel, in creating new Depart click Create Dept Tab " src="https://github.com/user-attachments/assets/5e7e7381-a3c9-49bd-83ae-6eeb42151be1" />
+<img width="321" height="467" alt="Once inside Admin Panel page then inside &#39;Agent&#39; click &#39;Department&#39;" src="https://github.com/user-attachments/assets/8aed5cf0-61e9-46b3-8a5d-e750787594cd" />
 
 
+<details><summary>See screenshot 3</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 
 
+<img width="321" height="467" alt="In &#39;Departments&#39; dashboard and click &#39;Add New Department&#39;" src="https://github.com/user-attachments/assets/0f7ed6e8-14bc-4c1c-8b9d-1772a181351e" />
 
 
+<details><summary>See screenshot 4</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 
 
+<img width="321" height="467" alt="Inside &#39;Add New Department&#39; page click dropdown &#39;Support&#39; option and then in name field type &#39;SysAdmin&#39;" src="https://github.com/user-attachments/assets/29209a2e-51df-4919-bf6e-728d6d32c6cb" />
+
+<details><summary>See screenshot 5</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="In &#39;Add New Departments&#39; and after selecting &#39;Level Support&#39; and typing &#39;SysAdmin&#39; and click &#39;Create Dept&#39;" src="https://github.com/user-attachments/assets/fa4a0fea-662d-410e-b577-21c9710407f8" />
+
+<details><summary>See screenshot 6</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Click the &#39;Create Depart&#39; for New Department page" src="https://github.com/user-attachments/assets/9e01f5a8-961c-4fab-9df9-7b1954736156" />
+
+<details><summary>See screenshot 7</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Clicked on Agents tab Samuel from the Level 1 support depart is Created" src="https://github.com/user-attachments/assets/144f3e9d-0a7c-40a9-8d40-fcce72d567b9" />
 
 
 
