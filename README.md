@@ -58,12 +58,6 @@ http://localhost/osTicket/scp/login.php
 
 
 
-
-
-
-
-
-
 **End Users osTicket URL:**
 http://localhost/osTicket 
 
