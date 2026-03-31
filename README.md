@@ -183,7 +183,7 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 
 
-<h7>CONFIGURE TEAMS</h7>
+### <h7>CONFIGURE TEAMS</h7>
 Teams are used to group staff members from different departments who are responsible for a specific function.
 1. Navigate to Teams: Select Teams from the 'Agents' Tab.
 2. Add New Team: Click +Add New Team.
@@ -194,16 +194,31 @@ Teams are used to group staff members from different departments who are respons
 
 Select Teams from the Agents tab, and select +Add New Team.  For the Name, type Online Banking. Observe the settings and see different options that can be set, along with ability to assign Agents. Select Create Team</p>
 
-<details><summary>See screenshot</summary>
+<details><summary>See screenshot 1</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="In Admin Panel click on the &#39;Agents&#39; tab and click on &#39;Teams&#39;" src="https://github.com/user-attachments/assets/840746a4-b571-4065-b643-2fcbb5f92065" />
+
+<details><summary>See screenshot 2</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="952" height="439" alt="In Teams page to configure teams click on &#39;Add New Teams&#39;" src="https://github.com/user-attachments/assets/2d81b700-f0b0-4bc5-96f2-cc6eb439b53a" />
+
+<details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 
-<img width="363" height="333" alt="Step 36 click on the Teams Tab, the click create New Team button" src="https://github.com/user-attachments/assets/20930692-cb32-417f-b386-8075ea884cd7" />
+<img width="321" height="467" alt="Inside Add New Team click &#39;Online Banking&#39; and then click &#39;Create Team&#39;" src="https://github.com/user-attachments/assets/2573ab02-8ec7-4c13-8ee3-062536c1f6a2" />
+
+<details><summary>See screenshot 4</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 
 
-
-
+<img width="321" height="467" alt="Getting back to the Teams page and seeing that &#39;Online Banking&#39; was successfully created" src="https://github.com/user-attachments/assets/c084069b-06be-4275-8de9-9c303397ce36" />
 
 
 
