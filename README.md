@@ -21,7 +21,7 @@
 
 
 **Key Actions**
- 1.Configure Roles: Control agent permissions and access levels.
+ 1. Configure Roles: Control agent permissions and access levels.
  2. Create Departments: Organize ticket ownership and collaboration
  3. Configure Teams: Group staff members for specific functions.
  4. Add Agents and Users: Simulate a real support environment.
@@ -46,13 +46,6 @@ http://localhost/osTicket/scp/login.php
 
 
 <img width="316" height="450" alt="Screenshot 2026-02-13 001923" src="https://github.com/user-attachments/assets/5fc7125f-e1ae-467b-b43d-00432c2b12d4" />
-
-
-
-
-
-
-
 
 
 
@@ -91,11 +84,40 @@ Roles in osTicket group related permissions and are assigned to staff to control
 - Permissions: Mark all checkboxes in the 'Tickets', 'Tasks', and 'Knowledgebase' tabs.
 4. Save Role: Click Add Role.
 
-<details><summary>See screenshot</summary>
+<details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="409" height="335" alt="Step 13 Admin Panel, Agents, Roles, View only, Permission-Knowledegeables" src="https://github.com/user-attachments/assets/b9244b3c-1878-49a3-ab86-abd8cd2275a9" />
+<img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/38f6d70b-5200-4f83-8af5-cec474a71715" />
+
+<details><summary>See screenshot 2</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Click the Right &#39;Agents&#39; tab and click &#39;Roles&#39;" src="https://github.com/user-attachments/assets/7e258a9f-2478-45af-aa93-54ccff93849b" />
+
+<details><summary>See screenshot 3</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Once inside the &#39;Roles&#39; dashboard then click &#39;Add New Roles&#39;" src="https://github.com/user-attachments/assets/444ceee8-aa88-4fec-9ac9-beb105f5631a" />
+
+<details><summary>See screenshot 4</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+
+<img width="321" height="467" alt="In &#39;Add New Role&#39; type &#39;Name&#39; and then below click &#39;Add Role&#39;" src="https://github.com/user-attachments/assets/6585b64b-43db-4f2b-9213-974ddf00f88b" />
+
+
+<details><summary>See screenshot 5</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Click &#39;Tickets&#39; the Add Role" src="https://github.com/user-attachments/assets/d5d2090f-f16c-47d8-bef1-66e1b1925872" />
+
+
+
 
 
 
