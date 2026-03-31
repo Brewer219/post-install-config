@@ -412,19 +412,19 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 <img width="321" height="467" alt="4th Help Topic Password Resets added" src="https://github.com/user-attachments/assets/8d2ffed7-98b6-421b-a62c-f10211fcafbc" />
 
 
-<details><summary>See screenshot 9</summary>
+<details><summary>See screenshot 10</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 <img width="321" height="467" alt="5th time &#39;Add New Help Topic&#39; on help topic page" src="https://github.com/user-attachments/assets/2cc8be34-d34b-4dbc-9d23-d733ec6f67bb" />
 
-<details><summary>See screenshot 10</summary>
+<details><summary>See screenshot 11</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 <img width="321" height="467" alt="5th Help Topic add &#39;Other&#39;" src="https://github.com/user-attachments/assets/db8f8b30-8a28-45a5-9c32-facebc013a64" />
 
-<details><summary>See screenshot 11</summary>
+<details><summary>See screenshot 12</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
