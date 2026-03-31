@@ -281,14 +281,8 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 
 <img width="321" height="467" alt="Once inside User Directory click the &#39;Add User&#39; button" src="https://github.com/user-attachments/assets/8c6474ae-54ff-40f8-87c9-a7de85e4f37d" />
 
+
 <details><summary>See screenshot 3</summary>
-<img src="images/Step 3a.PNG" width="60%" >
-</details>
-
-<img width="321" height="467" alt="Created a User name &#39;Joann&#39;" src="https://github.com/user-attachments/assets/6c450b85-8ea3-4062-84fe-f2be4b964506" />
-
-
-<details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
