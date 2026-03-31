@@ -204,7 +204,7 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="952" height="439" alt="In Teams page to configure teams click on &#39;Add New Teams&#39;" src="https://github.com/user-attachments/assets/2d81b700-f0b0-4bc5-96f2-cc6eb439b53a" />
+<img width="321" height="467" alt="In Teams page to configure teams click on &#39;Add New Teams&#39;" src="https://github.com/user-attachments/assets/2d81b700-f0b0-4bc5-96f2-cc6eb439b53a" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
