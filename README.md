@@ -294,41 +294,11 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 
 <img width="321" height="467" alt="Joann the user is finally created" src="https://github.com/user-attachments/assets/6663dce5-a69c-4a0a-aec8-ead5995a53cf" />
 
-<details><summary>See screenshot 6</summary>
-<img src="images/Step 3a.PNG" width="60%" >
-</details>
-
-<img width="321" height="467" alt="Joann the user is finally created" src="https://github.com/user-attachments/assets/b66d38bb-e7d8-4e2a-bdaa-3bd5ea980ea1" />
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h10>CONFIGURE SERVICE LEVEL AGREEMENTS (SLA)</h10>
+## <h10>CONFIGURE SERVICE LEVEL AGREEMENTS (SLA)</h10>
 <p>An SLA defines the expected response and resolution time for tickets based on priority or issue type.</p>
 
 Back to the Admin panel, select Manage tab, and select SLA section Select +Add New SLA Plan. Here we'll create three new SLA Plans. 
@@ -336,21 +306,39 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
  - Sev-B (Grace period: 4 Hour, Schedule: 24/7)
  - Sev-C (Grace period: 8 Hour, Schedule: Business Hours)
 
-   <details><summary>See screenshot</summary>
+   <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-   
-<img width="390" height="384" alt="Step 69 Admin Panel, SLA Tab Fill out the Fields, and hit Add Plan button" src="https://github.com/user-attachments/assets/57b832f4-0111-4c36-b772-489d0a891ca0" />
+<img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/aa8dd56f-18bd-4774-a925-dacc2b545214" />
 
-   
+<details><summary>See screenshot 2</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
 
- 
+
+<img width="321" height="467" alt="Going from Users page to Admin Panel click &#39;Manage&#39; tab" src="https://github.com/user-attachments/assets/9ea3ab89-2cc6-44d2-867a-c442a10c4b57" />
+
+
+<details><summary>See screenshot 3</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="321" height="467" alt="Manage tab getting to the SLAs" src="https://github.com/user-attachments/assets/898febf7-2c73-4a9d-8a0b-aa3e7e5ddd00" />
+
+<details><summary>See screenshot 4</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+
+<img width="321" height="467" alt="Once on SLA page the click &#39;Add New SLA Plan&#39; Button" src="https://github.com/user-attachments/assets/6e97ee9d-355f-40ad-9a50-5df4648f11d2" />
+
+
+
  > [!NOTE]
  > With SLAs, we can prioritize tickets by severity and business impact.</p>
 
 
-<h11> CONFIGURE HELP TOPICS</h11>
+## <h11> CONFIGURE HELP TOPICS</h11>
 <p>Help Topics help categorize incoming tickets and automatically route them to the appropriate department, priority, or workflow. Can be used by end users or agents.</p>
 1. Navigate To Help Topics: In the Admin panel, under Manage tab, select Help Topics section.
 2. Add New Help Topics: Click +Add New Help Topics.
@@ -371,14 +359,105 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 </details>
  
 
- <img width="352" height="350" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/78b78a13-2f78-44b4-b9d5-fa93c9e11eda" />
+ <img width="321" height="467" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/78b78a13-2f78-44b4-b9d5-fa93c9e11eda" />
 
  <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
  
 
-<img width="306" height="399" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/7b85523d-956e-4d41-abf7-861077b64d25" />
+<img width="321" height="467" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/7b85523d-956e-4d41-abf7-861077b64d25" />
+
+ <details><summary>See screenshot 3</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="In Hot Topics page click &#39;Add New Help Topic&#39;" src="https://github.com/user-attachments/assets/4ecc2d84-53bf-4fb9-9d1f-6e5011221aa0" />
+
+<details><summary>See screenshot 4</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Once on Add New Help Topics page add &#39;Business Critical Outage&#39;" src="https://github.com/user-attachments/assets/b18e44fe-d654-4dd1-8b74-ffdd96ce76b9" />
+
+<details><summary>See screenshot 5</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Click &#39;Add New Help Topics&#39; again the 2nd time" src="https://github.com/user-attachments/assets/84b81b3b-8cdc-4c09-93e2-cfada61b4024" />
+
+<details><summary>See screenshot 6</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Then add the 2nd Help Topics &#39;Personal Computer Issues" src="https://github.com/user-attachments/assets/d77fa876-7d90-4b13-abac-36669c4051b1" />
+
+<details><summary>See screenshot 7</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Click &#39;Add New Help Topics&#39; again the 2nd time" src="https://github.com/user-attachments/assets/afc9a549-9b82-46a4-8738-8e1aa8167a8b" />
+
+<details><summary>See screenshot 8</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="Adding 3rd Help Topic Equipment Request" src="https://github.com/user-attachments/assets/713f4b68-89dd-4ec1-89bd-f0b1153f9edd" />
+
+
+<details><summary>See screenshot 9</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="4th Help Topic Password Resets added" src="https://github.com/user-attachments/assets/8d2ffed7-98b6-421b-a62c-f10211fcafbc" />
+
+
+<details><summary>See screenshot 9</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="5th time &#39;Add New Help Topic&#39; on help topic page" src="https://github.com/user-attachments/assets/2cc8be34-d34b-4dbc-9d23-d733ec6f67bb" />
+
+<details><summary>See screenshot 10</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="5th Help Topic add &#39;Other&#39;" src="https://github.com/user-attachments/assets/db8f8b30-8a28-45a5-9c32-facebc013a64" />
+
+<details><summary>See screenshot 11</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="321" height="467" alt="All Help Topics Fully Added" src="https://github.com/user-attachments/assets/a274c34e-8c22-400c-ad1a-3d2b7fb3f7c8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
