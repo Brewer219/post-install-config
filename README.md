@@ -306,9 +306,12 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
  - Sev-B (Grace period: 4 Hour, Schedule: 24/7)
  - Sev-C (Grace period: 8 Hour, Schedule: Business Hours)
 
-   <details><summary>See screenshot 1</summary>
+
+
+<details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
+  
 
 <img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/aa8dd56f-18bd-4774-a925-dacc2b545214" />
 
@@ -328,7 +331,6 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-
 
 <img width="321" height="467" alt="Once on SLA page the click &#39;Add New SLA Plan&#39; Button" src="https://github.com/user-attachments/assets/6e97ee9d-355f-40ad-9a50-5df4648f11d2" />
 
