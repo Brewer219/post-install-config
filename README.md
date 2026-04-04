@@ -464,29 +464,43 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-  
-
-<img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/aa8dd56f-18bd-4774-a925-dacc2b545214" />
+<img width="356" height="470" alt="Going from Users page to Admin Panel click &#39;Manage&#39; tab" src="https://github.com/user-attachments/assets/63271760-287f-4e3b-ab04-c45bcc8abb4d" />
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-
-<img width="321" height="467" alt="Going from Users page to Admin Panel click &#39;Manage&#39; tab" src="https://github.com/user-attachments/assets/9ea3ab89-2cc6-44d2-867a-c442a10c4b57" />
-
+<img width="356" height="435" alt="Manage tab getting to the SLAs" src="https://github.com/user-attachments/assets/795791ad-e5ef-4a82-9959-200f7fe2de23" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-<img width="321" height="467" alt="Manage tab getting to the SLAs" src="https://github.com/user-attachments/assets/898febf7-2c73-4a9d-8a0b-aa3e7e5ddd00" />
+
+<img width="356" height="467" alt="Once on SLA page the click &#39;Add New SLA Plan&#39; Button" src="https://github.com/user-attachments/assets/6cd16d69-90c3-4df9-8842-8f8dbf4d223d" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="321" height="467" alt="Once on SLA page the click &#39;Add New SLA Plan&#39; Button" src="https://github.com/user-attachments/assets/6e97ee9d-355f-40ad-9a50-5df4648f11d2" />
+<img width="340" height="473" alt="Creating New SLA Sev A" src="https://github.com/user-attachments/assets/0661c956-6c44-4295-b75d-baeaa22689fd" />
 
+<details><summary>See screenshot 5</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="356" height="475" alt="Adding New SLA Sev B" src="https://github.com/user-attachments/assets/7530b77b-3a1e-4535-b699-2de768455d6c" />
+
+<details><summary>See screenshot 6</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="345" height="470" alt="Adding New SLA Sev C" src="https://github.com/user-attachments/assets/e287da04-081c-4c98-8253-51f9bb40a855" />
+
+<details><summary>See screenshot 7</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="340" height="470" alt="All SLA are successfully created and Now go to &#39;Help Topics&#39;" src="https://github.com/user-attachments/assets/6b73a929-15be-45d5-8451-1e718717c385" />
 
 
  > [!NOTE]
