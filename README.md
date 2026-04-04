@@ -69,13 +69,7 @@ http://localhost/osTicket
 
 
 
-
-
-
-
-
-
-<h5>CONFIGURE ROLES</h5>
+## <h5>CONFIGURE ROLES</h5>
 Roles in osTicket group related permissions and are assigned to staff to control what actions.
 1. Login: Access the Admin/Analyst/Agent page at [Admin Login]
 2. Navigate to Roles: Click on the Admin link at the top right, then select the 'Agent' tab and choose 'Roles'
@@ -229,6 +223,13 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 <p>Agents are the support staff in osTicket who handle incoming tickets, communicate with users, and update ticket status based on their assigned roles, departments, and teams. We will create two users. In the Agents tab, select the Agents section, and select +Add New Agent. Create Susan Smith, use any email.</p>
 1. Add New Agent: In the Agents tab, select +Add New Agent.
 - Agent 1:
+  - Name: Samuel Hancock
+  - Email: Samuel@lognpacific.com
+  - Username: samuel
+  - Password: Password4
+  - Department: Support
+  - Role: View Only
+- Agent 2:
  - Name: Susan Smith
  - Email: (Any valid email)
  - Username: susan
@@ -236,28 +237,186 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
  - Department: SysAdmin
  - Role: Super Admin
  - Team: Online Banking
-- Agent 2:
-  - Name: Samuel Hancock
-  - Username: samuel
-  - Password: Password4
-  - Department: Support
-  - Role: View Only
+  
+
 2. Settings: In the Settings tab, ensure "Require registration and login to create tickets" is unchecked.
 
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
+<img width="325" height="475" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/33ea2fda-a194-4400-92a8-13481a1cfa5b" />
+
+
+<details><summary>See screenshot 2</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="473" alt="For me VB admin in creating Samuel click the &#39;Admin Panel&#39; and click the &#39;Agents&#39; link" src="https://github.com/user-attachments/assets/936e63fc-a59a-4440-82e2-181e0a0f5e80" />
+
+<details><summary>See screenshot 3</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="470" alt="On Agents Page click &#39;Add New Agent&#39;" src="https://github.com/user-attachments/assets/bdefc7c3-014b-4dea-bf16-b3b7ed682ec5" />
+
+<details><summary>See screenshot 4</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="325" height="474" alt="Inside the Add New Agent creating an account for Samuel and typing in all the fields" src="https://github.com/user-attachments/assets/b873ae0d-9a16-416e-a5e2-d9a748bb8570" />
+
+<details><summary>See screenshot 5</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="470" alt="Inside of Samuel account to change password but click the &#39;Set Password&#39; button" src="https://github.com/user-attachments/assets/d91310be-d5df-4b7f-a861-a1b6d5422aa3" />
+
+<details><summary>See screenshot 6</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="325" height="470" alt="Once clicking &#39;Set Password&#39; button for setting Samuel password then click or uncheck that center box" src="https://github.com/user-attachments/assets/140e7852-ffd5-4e67-b28b-830720132338" />
+
+<details><summary>See screenshot 7</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="470" alt="For Samuel account when setting password make sure inside the &#39;Set Agent Password&#39; the second box is unchecked " src="https://github.com/user-attachments/assets/6a83ab04-e39d-499e-b869-f8ef68f7eb66" />
+
+<details><summary>See screenshot 8</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="325" height="470" alt="Once I typed in new password for Samuel then click the &#39;Set&#39; button" src="https://github.com/user-attachments/assets/b1fd8ec9-fcf7-4ea9-8fdf-a52ef2d45771" />
+
+<details><summary>See screenshot 9</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="475" alt="Samuel in the &#39;View Only&#39; access Support tab" src="https://github.com/user-attachments/assets/42e57791-aee2-44fa-b1d3-094d111eca6f" />
+
+<details><summary>See screenshot 10</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="467" alt="Samuel account on &#39;Users&#39; and &#39;Permissions&#39; this what it look like" src="https://github.com/user-attachments/assets/d0fb4882-f87a-4629-95dd-fd6216c920b3" />
+
+
+<details><summary>See screenshot 11</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="470" alt="Samuel &#39;Organization&#39; category " src="https://github.com/user-attachments/assets/575f6e0f-e7e3-44a5-8032-b2d4a259f4b3" />
+
+<details><summary>See screenshot 12</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="325" height="470" alt="Samuel account and &#39;Knowledageble&#39; tab" src="https://github.com/user-attachments/assets/288865e1-2f57-471b-9517-ac8826c840a7" />
+
+<details><summary>See screenshot 13</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="325" height="467" alt="Samuel miscellaneous tab in his account" src="https://github.com/user-attachments/assets/9aa23e20-a572-4269-897d-b6635badfd79" />
+
+<details><summary>See screenshot 14</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="475" alt="Samuel as &#39;Support Level 1&#39; is successfully created" src="https://github.com/user-attachments/assets/fd6a1b74-9514-4261-b378-62ec10d4e647" />
+
+<details><summary>See screenshot 15</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="475" alt="Now on Agents page &#39;Samuel Hancock&#39; is created" src="https://github.com/user-attachments/assets/058bfd28-150b-4e06-bd59-03271e255ac0" />
+
+<details><summary>See screenshot 16</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="475" alt="Now after creating &#39;Samuel Hancock&#39; now lets create &#39;Susan Smith&#39; as SysAdmin" src="https://github.com/user-attachments/assets/5f9feeb8-a8b5-433a-b2b2-acb0f68f62dd" />
+
+<details><summary>See screenshot 17</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="470" alt="Once click the &#39;Add New Agent&#39; button then type in &#39;Susan Smith&#39; in the field and type emails, and username" src="https://github.com/user-attachments/assets/b34533bf-d280-48d9-b349-5bb394d87eea" />
+
+<details><summary>See screenshot 18</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="335" height="473" alt="Now for &#39;Susan&#39; account click the &#39;Set Password&#39; button" src="https://github.com/user-attachments/assets/e96f7de7-9adb-4b2c-b9b0-184f1aa78fde" />
+
+<details><summary>See screenshot 19</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="335" height="470" alt="Susan for the &#39;Set Agent Password&#39; unchecked the box" src="https://github.com/user-attachments/assets/f1bcd9b3-7612-4c41-b5fa-aa3ec049198e" />
+
+<details><summary>See screenshot 20</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="335" height="470" alt="For Susan inside the &#39;Set Agent Password&#39; tpe in the fills and make sure the boxes are unchecked and then click &#39;Set&#39; button to set password" src="https://github.com/user-attachments/assets/a0b53252-a014-4b29-96e6-bd833271e4e2" />
+
+<details><summary>See screenshot 21</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="470" alt="Susan account susan has &#39;all access&#39; as SysAdmin" src="https://github.com/user-attachments/assets/8cf47060-17bc-4b8e-86e3-df226e1ea87f" />
+
+<details><summary>See screenshot 22</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="335" height="465" alt="Susans user link" src="https://github.com/user-attachments/assets/65e1e1b3-99eb-4331-a96b-b6786f0ff71b" />
+
+<details><summary>See screenshot 23</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="465" alt="Susan organization in the &#39;Permissions&#39; tab" src="https://github.com/user-attachments/assets/e7b92485-7bcc-4c03-bbed-537d8d1bb3bb" />
+
+<details><summary>See screenshot 24</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="475" alt="Susans for permissions tab click &#39;Kownledageble&#39; link" src="https://github.com/user-attachments/assets/a036436e-231f-4de6-9589-383c782febef" />
+
+<details><summary>See screenshot 25</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="470" alt="Susan account in permissions tab giving Miscullaneous giving all access with the checked boxes" src="https://github.com/user-attachments/assets/7aafbab0-f9eb-42fa-a96c-be4e2b071f76" />
+
+<details><summary>See screenshot 26</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="330" height="475" alt="Susan account in the &#39;Teams&#39; tab click the dropdown and click the &#39;Add New&#39; option" src="https://github.com/user-attachments/assets/f13a3aa3-d30b-4062-a068-8867d507a553" />
+
+<details><summary>See screenshot 27</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="335" height="470" alt="Make Susan Smith the &#39;SysAdmin&#39; and then click the &#39;Create&#39; button" src="https://github.com/user-attachments/assets/d1eddd90-6e73-4bdf-833c-ddfaf6c573b8" />
+
+<details><summary>See screenshot 28</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="335" height="475" alt="For Susan account after clciking the yellow &#39;Create&#39; button below now Susan Smith is created as the &#39;SysAdmin" src="https://github.com/user-attachments/assets/a4ddff2c-dc70-45fb-a5c8-ed1bd4089e0e" />
+
+<details><summary>See screenshot 29</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="335" height="470" alt="Now back to the Agents page or section both &#39;Samuel and Susan is now created in different departments&#39;" src="https://github.com/user-attachments/assets/c985cb56-f8ad-4484-bd38-334925a0af26" />
 
 
 
 
 
-
-
-
-
-<h9> CONFIGURE USERS</h9>
+## <h9> CONFIGURE USERS</h9>
 <p>To add end users, we need to switch to Agent Panel, select Users tab, select +Add User. Choose any email, for name enter Joann and select Add User. Remember the email as end users will use their email addresses to create tickets, which we'll do in the next lab.</p>
 1. Navigate to Users: Select Users tab and click +Add User.
   - User Name: 'Joann'
