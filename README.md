@@ -231,7 +231,7 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 - Agent 1:
  - Name: Susan Smith
  - Email: (Any valid email)
- - Username: Susan
+ - Username: susan
  - Password: Password3
  - Department: SysAdmin
  - Role: Super Admin
@@ -249,13 +249,7 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 </details>
 
 
-<img width="333" height="337" alt="Step 51 Admin Panel, Create Agent Level 1 Help Desk Support" src="https://github.com/user-attachments/assets/5ada3f8e-422e-49ff-85ce-7b399c2abff1" /> 
 
-<details><summary>See screenshot 2</summary>
-<img src="images/Step 3a.PNG" width="60%" >
-</details>
-
-<img width="313" height="331" alt="Step 58 Admin Panel, Accounts Tab click Agents" src="https://github.com/user-attachments/assets/386ca4fc-13dc-4f36-92e8-4c43e74118cf" />
 
 
 
