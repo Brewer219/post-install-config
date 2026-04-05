@@ -164,12 +164,12 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Scroll down and click the "Create Dept" button as shown in image below:</p>
 
 <img width="321" height="467" alt="In &#39;Add New Departments&#39; and after selecting &#39;Level Support&#39; and typing &#39;SysAdmin&#39; and click &#39;Create Dept&#39;" src="https://github.com/user-attachments/assets/fa4a0fea-662d-410e-b577-21c9710407f8" />
 
 
-<details><summary>See screenshot 7</summary>
+<details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
