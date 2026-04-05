@@ -80,25 +80,25 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Log into the Admin page with your personal account that you signed up with and click on "Admin Panel" as shown in image below:</p>
 
 <img width="321" height="467" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/38f6d70b-5200-4f83-8af5-cec474a71715" />
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once on "Admin Panel" where it says 'Agents Settings' page then place mouse on the 'Agents' tab and click the 'Roles' option as shown in the image 2 below:</p>
 
 <img width="321" height="467" alt="Click the Right &#39;Agents&#39; tab and click &#39;Roles&#39;" src="https://github.com/user-attachments/assets/7e258a9f-2478-45af-aa93-54ccff93849b" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once on 'Roles' page then click the "Add New Role" button shown in the image below:</p>
 
 <img width="321" height="467" alt="Once inside the &#39;Roles&#39; dashboard then click &#39;Add New Roles&#39;" src="https://github.com/user-attachments/assets/444ceee8-aa88-4fec-9ac9-beb105f5631a" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there you'll be on "Add New Role" and on the 'Definition' tab in the 'Name:' you will type 'Supreme Admin' and then from below click the yellow button 'Add Role' shown in the image below:</p>
 
 
 <img width="321" height="467" alt="In &#39;Add New Role&#39; type &#39;Name&#39; and then below click &#39;Add Role&#39;" src="https://github.com/user-attachments/assets/6585b64b-43db-4f2b-9213-974ddf00f88b" />
@@ -106,15 +106,21 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Click 'Permissions' tab and make sure 'Ticket' section has all the options checked in all the boxes as shown in the image below:</p>
 
 <img width="321" height="467" alt="Click &#39;Tickets&#39; the Add Role" src="https://github.com/user-attachments/assets/d5d2090f-f16c-47d8-bef1-66e1b1925872" />
 
+<details><summary>See screenshot 6</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details><p>From 'Ticket' tab click the 'Task' section and make sure all the boxes are checked as shown image below:</p>
 
+<img width="354" height="475" alt="Supreme Admin Tasks in &#39;Permissions&#39; tab" src="https://github.com/user-attachments/assets/4a9e6c4e-f801-4506-b4ff-2abf734a519e" />
 
+<details><summary>See screenshot 7</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details><p>From 'Task' sections go to the 'Knowledgebase' section and make sure that option box is checked as shown in image below:</p>
 
-
-
+<img width="359" height="475" alt="Role Supreme Admin in the &#39;Kownledgeable&#39; inside &#39;Permissions&#39; tab" src="https://github.com/user-attachments/assets/35b3ce84-79f4-4361-8c6c-84795d59b09a" />
 
 
 
@@ -129,13 +135,13 @@ Roles in osTicket group related permissions and are assigned to staff to control
  
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>On your personal admin page click 'Admin Panel' to get to 'Departments' as shown in the image below:</p>
 
 <img width="321" height="467" alt="Trying to Configure &#39;Departments&#39; dashboard go to &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/a18baa48-d9b4-49a8-a37d-cb49f3dce383" />
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there place mouse on the 'Agents' tab and down below click on the 'Departments' options as shown in the image below:</p>
 
 
 <img width="321" height="467" alt="Once inside Admin Panel page then inside &#39;Agent&#39; click &#39;Department&#39;" src="https://github.com/user-attachments/assets/8aed5cf0-61e9-46b3-8a5d-e750787594cd" />
@@ -143,7 +149,7 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once you click 'Department' options you will get to the 'Departments' page and click "Add New Department" button on the center right shown in image below:</p>
 
 
 <img width="321" height="467" alt="In &#39;Departments&#39; dashboard and click &#39;Add New Department&#39;" src="https://github.com/user-attachments/assets/0f7ed6e8-14bc-4c1c-8b9d-1772a181351e" />
@@ -151,7 +157,7 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there you will be on the "Add New Departments" and in the dropdown option select 'Support' and 'Name:' type "SysAdmins" as shown in Image below:</p>
 
 
 <img width="321" height="467" alt="Inside &#39;Add New Department&#39; page click dropdown &#39;Support&#39; option and then in name field type &#39;SysAdmin&#39;" src="https://github.com/user-attachments/assets/29209a2e-51df-4919-bf6e-728d6d32c6cb" />
