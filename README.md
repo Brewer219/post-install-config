@@ -606,7 +606,7 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 <details><summary>See screenshot 11</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details><p> Once on the 'New help Topic" page type in the 'Topic: Password Reset', 'Status:Active', 'Parent Topic:Report a Problem' in the dropdown that option will be selected and click 'Add Topic' button as shown in the image below:</p>
+</details><p> Once on the 'New help Topic" page type in the 'Topic: Password Reset', 'Status:Active', 'Parent Topic:Report a Problem' in the dropdown that option will be selected and click 'Add Topic' button and 'Password Rest' will be successfully add as shown in the image below:</p>
 <img width="353" height="478" alt="Help Topic &#39;Password Reset&#39; is successfully created and now click the &#39;Help Topics&#39; link" src="https://github.com/user-attachments/assets/9f95d95b-8eae-4c90-a4da-6e2dc09e6e2f" />
 
 <details><summary>See screenshot 12</summary>
