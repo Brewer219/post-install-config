@@ -171,9 +171,10 @@ Roles in osTicket group related permissions and are assigned to staff to control
 
 <details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now go back to theDepartments page and you will see that 2 departments are successfully created as shown in the image below:</p>
 
-<img width="321" height="467" alt="Clicked on Agents tab Samuel from the Level 1 support depart is Created" src="https://github.com/user-attachments/assets/144f3e9d-0a7c-40a9-8d40-fcce72d567b9" />
+<img width="325" height="475" alt="Click the &#39;Departments&#39; and you can see 2 Departments are created successfully" src="https://github.com/user-attachments/assets/f7b22047-395b-4b90-81ad-db5ceee51c2a" />
+
 
 
 
@@ -191,26 +192,26 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Click the "Admin Panel" and place mouse on the 'Agents' tab and click the 'Teams' option as shown in image below:</p>
 
 <img width="321" height="467" alt="In Admin Panel click on the &#39;Agents&#39; tab and click on &#39;Teams&#39;" src="https://github.com/user-attachments/assets/840746a4-b571-4065-b643-2fcbb5f92065" />
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>After clicking the 'Teams' option then click "Add New Team" button as shown in the image below:</p>
 
 <img width="321" height="467" alt="In Teams page to configure teams click on &#39;Add New Teams&#39;" src="https://github.com/user-attachments/assets/2d81b700-f0b0-4bc5-96f2-cc6eb439b53a" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once clicking the "Add New Team" button you will land on a page called "Add New Team" page and in the field below where it says 'Name: Online Banking' and make sure the "Status: Active" and then down below click the yellow 'Create Team' button as shown in the image below:</p>
 
 
 <img width="321" height="467" alt="Inside Add New Team click &#39;Online Banking&#39; and then click &#39;Create Team&#39;" src="https://github.com/user-attachments/assets/2573ab02-8ec7-4c13-8ee3-062536c1f6a2" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p> Now get back to the 'Teams' page and seeing that the 'Online Banking' team was successfully created as shown in the image below:</p>
 
 
 <img width="321" height="467" alt="Getting back to the Teams page and seeing that &#39;Online Banking&#39; was successfully created" src="https://github.com/user-attachments/assets/c084069b-06be-4275-8de9-9c303397ce36" />
