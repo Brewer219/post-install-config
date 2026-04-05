@@ -555,25 +555,25 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details><p>From there you will land on the 'Update Help Topic' and type in field 'Business Critical Outage' and for 'Status:Active', and for 'Parent Topic: Report a Problem' as selected in the dropdown and then below click the 'Add Topic' button as shown in the image below:</p>
+</details><p>move and place the mouse on the 'Manage' tab and click "Help Topics" option and you will be in the "Help Topics" page or section and click "Add New Help Topic" button as shown in the image below:</p>
 
 <img width="353" height="475" alt="How to going into Help Topics" src="https://github.com/user-attachments/assets/fc2125f6-29ad-4deb-b955-6d0d4d9ae55a" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details><p>Now you will see 'Business Critical Outage' is successfully added and now you can click the 'Help Topics' link on the left corner of page as shown below:</p>
+</details><p></p>
 
 <img width="353" height="483" alt="On Help Topics page click &#39;Add New Help Topic&#39; button" src="https://github.com/user-attachments/assets/19c3fd17-bba7-4060-81ff-344fe6681957" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details><p>Once on the 'Help Topics' page you will want to click the 'Add New Help Topic' button for the second time to add 'Personal Computer Issues' as shown in the image below:</p>
+</details><p>From there you will land on the 'Update Help Topic' and type in field 'Business Critical Outage' and for 'Status:Active', and for 'Parent Topic: Report a Problem' as selected in the dropdown and then below click the 'Add Topic' button as shown in the image below:</p>
 
 <img width="353" height="479" alt="For Help Topic create &#39;Business Critical Outage&#39;" src="https://github.com/user-attachments/assets/a9c052eb-63dc-4864-bc39-0894ed7bbe2b" />
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details><p></p>
+</details><p>Now you will see 'Business Critical Outage' is successfully added and now you can click the 'Help Topics' link on the left corner of page as shown below:</p>
 <img width="349" height="475" alt="Business Crtical Outage is successfully created now go back to &#39;Help Topics&#39; page" src="https://github.com/user-attachments/assets/c6b9b1fb-258d-4091-bf5a-684aef0a4fbe" />
 
 <details><summary>See screenshot 6</summary>
