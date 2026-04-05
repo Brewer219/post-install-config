@@ -245,172 +245,172 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>On your personal admin page click "Admin Panel" as shown in the image below:</p>
 
 <img width="325" height="475" alt="osTicket click &#39;Admin Panel&#39;" src="https://github.com/user-attachments/assets/33ea2fda-a194-4400-92a8-13481a1cfa5b" />
 
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once on 'System Settings and Preference' page place mouse on the 'Agents' option as shown in the image below:</p>
 
 <img width="325" height="473" alt="For me VB admin in creating Samuel click the &#39;Admin Panel&#39; and click the &#39;Agents&#39; link" src="https://github.com/user-attachments/assets/936e63fc-a59a-4440-82e2-181e0a0f5e80" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there you will end up on the 'Agents' page and on the center right click "Add New Agent" button as shown in the image below:</p>
 
 <img width="325" height="470" alt="On Agents Page click &#39;Add New Agent&#39;" src="https://github.com/user-attachments/assets/bdefc7c3-014b-4dea-bf16-b3b7ed682ec5" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>After clicking the "Add New Agent" button then the 'Add New Agent' in the account tab will come up and what you do is type in the fields like "Samuel Hancock" in the "Name" field and in the "Email Address:' type "Samuel@lognpacific.com" and underneath the "Authentication" section for 'Username' field type 'samuel' as shown in the image below:</p>
 <img width="325" height="474" alt="Inside the Add New Agent creating an account for Samuel and typing in all the fields" src="https://github.com/user-attachments/assets/b873ae0d-9a16-416e-a5e2-d9a748bb8570" />
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Then to set password click the 'Set Password' button as shown in the image below:</p>
 
 <img width="325" height="470" alt="Inside of Samuel account to change password but click the &#39;Set Password&#39; button" src="https://github.com/user-attachments/assets/d91310be-d5df-4b7f-a861-a1b6d5422aa3" />
 
 <details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Then in the "Set Agent Password" box it will pop-up for 'Samuel' account and in that box you will uncheck the box where it says"Send the agent password reset email" as  shown in my image below:</p>
 <img width="325" height="470" alt="Once clicking &#39;Set Password&#39; button for setting Samuel password then click or uncheck that center box" src="https://github.com/user-attachments/assets/140e7852-ffd5-4e67-b28b-830720132338" />
 
 <details><summary>See screenshot 7</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once the box is unchecked then you will have the option in the fields to type a new password and then confirm the new password and down below make sure "Require password change at next login" is unchecked box as shown in my image below:</p>
 
 <img width="325" height="470" alt="For Samuel account when setting password make sure inside the &#39;Set Agent Password&#39; the second box is unchecked " src="https://github.com/user-attachments/assets/6a83ab04-e39d-499e-b869-f8ef68f7eb66" />
 
 <details><summary>See screenshot 8</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once you type your password in the 'Set Agent Password' field then down below click the 'Set' button to have the password set on account now as shown in the image below:</p>
 <img width="325" height="470" alt="Once I typed in new password for Samuel then click the &#39;Set&#39; button" src="https://github.com/user-attachments/assets/b1fd8ec9-fcf7-4ea9-8fdf-a52ef2d45771" />
 
 <details><summary>See screenshot 9</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there 'Add New Agent' on the page click the 'Access' tab and set 'Primary Department' section as 'Support' and second option dropdown as 'View only' and "Extended Access' section as 'Support' as shown in my image below:</p>
 
 <img width="325" height="475" alt="Samuel in the &#39;View Only&#39; access Support tab" src="https://github.com/user-attachments/assets/42e57791-aee2-44fa-b1d3-094d111eca6f" />
 
 <details><summary>See screenshot 10</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there leave 'Access' tab and click the 'Permissions' tab and in the 'Users' section make sure all boxes are checked as shown in the image below:</p>
 
 <img width="325" height="467" alt="Samuel account on &#39;Users&#39; and &#39;Permissions&#39; this what it look like" src="https://github.com/user-attachments/assets/d0fb4882-f87a-4629-95dd-fd6216c920b3" />
 
 
 <details><summary>See screenshot 11</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Leave 'Users' section then go to the 'Organizations' section and have or make sure all boxes are checked box as shwon in the image below:</p>
 
 <img width="325" height="470" alt="Samuel &#39;Organization&#39; category " src="https://github.com/user-attachments/assets/575f6e0f-e7e3-44a5-8032-b2d4a259f4b3" />
 
 <details><summary>See screenshot 12</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Then leave the 'Organizations' tab and go to the 'Knowledgebase' tab and make sure that 'FAQ' box is checked as shown in the image below:</p>
 <img width="325" height="470" alt="Samuel account and &#39;Knowledageble&#39; tab" src="https://github.com/user-attachments/assets/288865e1-2f57-471b-9517-ac8826c840a7" />
 
 <details><summary>See screenshot 13</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Then go to 'Miscellaneous' tab and makes sure the boxes are only checked is 'Agent' and 'Department' box as shown in the image below:</p>
 
 <img width="325" height="467" alt="Samuel miscellaneous tab in his account" src="https://github.com/user-attachments/assets/9aa23e20-a572-4269-897d-b6635badfd79" />
 
 <details><summary>See screenshot 14</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now below click the yellow 'Create' button and Samuel as 'Support Level 1' agent is successfully created as shown in the image below:</p>
 
 <img width="330" height="475" alt="Samuel as &#39;Support Level 1&#39; is successfully created" src="https://github.com/user-attachments/assets/fd6a1b74-9514-4261-b378-62ec10d4e647" />
 
 <details><summary>See screenshot 15</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Back to the 'Agents' page you will see "Samuel Hancock" created as shown in the image below:</p>
 
 <img width="330" height="475" alt="Now on Agents page &#39;Samuel Hancock&#39; is created" src="https://github.com/user-attachments/assets/058bfd28-150b-4e06-bd59-03271e255ac0" />
 
 <details><summary>See screenshot 16</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>On that same page click "Agent New Agent" again to make a system Administrator named "Susan Smith" as shown in the image below:</p>
 
 <img width="330" height="475" alt="Now after creating &#39;Samuel Hancock&#39; now lets create &#39;Susan Smith&#39; as SysAdmin" src="https://github.com/user-attachments/assets/5f9feeb8-a8b5-433a-b2b2-acb0f68f62dd" />
 
 <details><summary>See screenshot 17</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now after clicking that button you will then be on the 'Account' tab automatically and type in the fields "Susan Smith" and type in the "Email Address: and type "Susan@lognpacific.com" and then go down to the "Authentication" section and in the "username" field type 'susan' as shown in the image below:</p>
 
 <img width="330" height="470" alt="Once click the &#39;Add New Agent&#39; button then type in &#39;Susan Smith&#39; in the field and type emails, and username" src="https://github.com/user-attachments/assets/b34533bf-d280-48d9-b349-5bb394d87eea" />
 
 <details><summary>See screenshot 18</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>click on "Set Password" button as shown in the image below:</p>
 
 <img width="335" height="473" alt="Now for &#39;Susan&#39; account click the &#39;Set Password&#39; button" src="https://github.com/user-attachments/assets/e96f7de7-9adb-4b2c-b9b0-184f1aa78fde" />
 
 <details><summary>See screenshot 19</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once the box pop-up click or uncheck the box that says "Send the agent a password reset email" as shown in the image below:</p>
 
 <img width="335" height="470" alt="Susan for the &#39;Set Agent Password&#39; unchecked the box" src="https://github.com/user-attachments/assets/f1bcd9b3-7612-4c41-b5fa-aa3ec049198e" />
 
 <details><summary>See screenshot 20</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>The next thing you will do is type the new password and confirm password in the fields and make sure "Require password change at next login" is unchecked and then below click the "Set" button to set password on Susan's account as shown in the image below:</p>
 <img width="335" height="470" alt="For Susan inside the &#39;Set Agent Password&#39; tpe in the fills and make sure the boxes are unchecked and then click &#39;Set&#39; button to set password" src="https://github.com/user-attachments/assets/a0b53252-a014-4b29-96e6-bd833271e4e2" />
 
 <details><summary>See screenshot 21</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there click on the 'Access' tab and under the "Primary Department" click the first dropdown and select 'Support/SysAdmins' and the second dropdown select "All Access" for Susan the SysAdmins and then lastly for "Extended Access" select "Support/SysAdmins" as shown in the image below:</p>
 
 <img width="330" height="470" alt="Susan account susan has &#39;all access&#39; as SysAdmin" src="https://github.com/user-attachments/assets/8cf47060-17bc-4b8e-86e3-df226e1ea87f" />
 
 <details><summary>See screenshot 22</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now leave the 'Access' tab then go to 'Permissions' tab and click the 'Users' section and make sure all boxes are checked as shown in the image below:</p>
 
 <img width="335" height="465" alt="Susans user link" src="https://github.com/user-attachments/assets/65e1e1b3-99eb-4331-a96b-b6786f0ff71b" />
 
 <details><summary>See screenshot 23</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From the 'Users' section now leave and go to the 'Organizations' section and make sure all those boxes are checked as shown in the image below:</p>
 
 <img width="330" height="465" alt="Susan organization in the &#39;Permissions&#39; tab" src="https://github.com/user-attachments/assets/e7b92485-7bcc-4c03-bbed-537d8d1bb3bb" />
 
 <details><summary>See screenshot 24</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now leave 'Organizations' and go to 'Knowledgebase' section and make sure "FAQ" is checked on Susan's account as shown in the image below:</p>
 
 <img width="330" height="475" alt="Susans for permissions tab click &#39;Kownledageble&#39; link" src="https://github.com/user-attachments/assets/a036436e-231f-4de6-9589-383c782febef" />
 
 <details><summary>See screenshot 25</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once you leave 'Knowledgebase' then go to 'Miscellaneous' and make sure every box is checked on Susan's account as shown in the image below:</p>
 
 <img width="330" height="470" alt="Susan account in permissions tab giving Miscullaneous giving all access with the checked boxes" src="https://github.com/user-attachments/assets/7aafbab0-f9eb-42fa-a96c-be4e2b071f76" />
 
 <details><summary>See screenshot 26</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now Leave the 'Permissions' tab entirely and cclick on the 'Teams" tab and once you're on the 'Teams' tab under the "Assigned Teams" tab click the dropdown box and select option called "new" option in the dropdown show in the image below:</p>
 
 <img width="330" height="475" alt="Susan account in the &#39;Teams&#39; tab click the dropdown and click the &#39;Add New&#39; option" src="https://github.com/user-attachments/assets/f13a3aa3-d30b-4062-a068-8867d507a553" />
 
 <details><summary>See screenshot 27</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there a "Add New Team" box will pop-up and the field you will put 'SysAdmin' and where it wants you to select a leader from a team just select "None" option as shown in the image below:</p>
 
 <img width="335" height="470" alt="Make Susan Smith the &#39;SysAdmin&#39; and then click the &#39;Create&#39; button" src="https://github.com/user-attachments/assets/d1eddd90-6e73-4bdf-833c-ddfaf6c573b8" />
 
 <details><summary>See screenshot 28</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now "Susan Smith" is successfully added as SysAdmin by clicking the 'Create' button in yellow as shown in the image below:</p>
 
 <img width="335" height="475" alt="For Susan account after clciking the yellow &#39;Create&#39; button below now Susan Smith is created as the &#39;SysAdmin" src="https://github.com/user-attachments/assets/a4ddff2c-dc70-45fb-a5c8-ed1bd4089e0e" />
 
 <details><summary>See screenshot 29</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Then go back to the 'Agents' page and you will see 'Susan Smith' is successfully added as SysAdmin shown in the image below:</p>
 
 <img width="335" height="470" alt="Now back to the Agents page or section both &#39;Samuel and Susan is now created in different departments&#39;" src="https://github.com/user-attachments/assets/c985cb56-f8ad-4484-bd38-334925a0af26" />
 
