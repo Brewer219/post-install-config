@@ -555,13 +555,13 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details><p>move and place the mouse on the 'Manage' tab and click "Help Topics" option and you will be in the "Help Topics" page or section and click "Add New Help Topic" button as shown in the image below:</p>
+</details><p>move and place the mouse on the 'Manage' tab and click "Help Topics" option and you will be in the "Help Topics" page or section as shown in the image below:</p>
 
 <img width="353" height="475" alt="How to going into Help Topics" src="https://github.com/user-attachments/assets/fc2125f6-29ad-4deb-b955-6d0d4d9ae55a" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details><p></p>
+</details><p>On the 'Help  Topics' page click "Add New Help Topic" button as shown in the image below:</p>
 
 <img width="353" height="483" alt="On Help Topics page click &#39;Add New Help Topic&#39; button" src="https://github.com/user-attachments/assets/19c3fd17-bba7-4060-81ff-344fe6681957" />
 
