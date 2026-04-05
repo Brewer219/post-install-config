@@ -551,51 +551,100 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
- <img width="350" height="479" alt="How to going into Help Topics" src="https://github.com/user-attachments/assets/e84cff3f-d5bc-4128-a86a-77c034d0af8d" />
+<img width="347" height="475" alt="To Go to Help Topics naviagte and click on &#39;Admin Panel&#39; in personal account" src="https://github.com/user-attachments/assets/d19b5fcd-19f0-40f5-b744-bc13444f5779" />
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="343" height="384" alt="Click &#39;Add New Help Topics&#39; again the 2nd time" src="https://github.com/user-attachments/assets/e5661210-5b69-4eb9-899e-bbb0f4a99cb5" />
+<img width="353" height="475" alt="How to going into Help Topics" src="https://github.com/user-attachments/assets/fc2125f6-29ad-4deb-b955-6d0d4d9ae55a" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-<img width="354" height="473" alt="Then add the 2nd Help Topics &#39;Personal Computer Issues" src="https://github.com/user-attachments/assets/3c6d3ff4-a844-481c-a891-956da2c6daef" />
+
+<img width="353" height="483" alt="On Help Topics page click &#39;Add New Help Topic&#39; button" src="https://github.com/user-attachments/assets/19c3fd17-bba7-4060-81ff-344fe6681957" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-<img width="338" height="473" alt="Adding 3rd Help Topic Equipment Request" src="https://github.com/user-attachments/assets/0cfe29c9-9563-41fd-b708-0a141c77c4ef" />
+
+<img width="353" height="479" alt="For Help Topic create &#39;Business Critical Outage&#39;" src="https://github.com/user-attachments/assets/a9c052eb-63dc-4864-bc39-0894ed7bbe2b" />
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-<img width="351" height="473" alt="4th Help Topic Password Resets added" src="https://github.com/user-attachments/assets/beb0ffb5-3ac4-4388-8961-ae52ad51c9f9" />
+<img width="349" height="475" alt="Business Crtical Outage is successfully created now go back to &#39;Help Topics&#39; page" src="https://github.com/user-attachments/assets/c6b9b1fb-258d-4091-bf5a-684aef0a4fbe" />
 
 <details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-
-<img width="369" height="419" alt="5th time &#39;Add New Help Topic&#39; on help topic page" src="https://github.com/user-attachments/assets/e0024119-d9fc-450a-b80a-c513a9e1fd4f" />
+<img width="346" height="478" alt="Click add an new help topic button again to had &#39;personal Computer Issues&#39;" src="https://github.com/user-attachments/assets/0620ab3d-93fc-4690-8aeb-a5551b51c40d" />
 
 <details><summary>See screenshot 7</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-<img width="369" height="419" alt="5th time &#39;Add New Help Topic&#39; on help topic page" src="https://github.com/user-attachments/assets/a952416b-1795-4f08-b961-c9173c826200" />
+
+<img width="349" height="476" alt="Personal Computer Issue Help Topic is succefully added and now go back to the &#39;Help Topics&#39; page" src="https://github.com/user-attachments/assets/82676325-e7a1-4126-8cd9-f6700d388294" />
 
 <details><summary>See screenshot 8</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-<img width="354" height="435" alt="5th Help Topic add &#39;Other&#39;" src="https://github.com/user-attachments/assets/63d562ab-c381-453c-a725-3f64f4204f4a" />
-
+<img width="347" height="480" alt="Once on &#39;Help Topics&#39; page the click on &#39;Add New Help Topic&#39; button third time to add &#39;Equipment Request&#39;" src="https://github.com/user-attachments/assets/7efa46ac-b9ce-48ff-bee7-2f06bd0b5802" />
 
 <details><summary>See screenshot 9</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="349" height="476" alt="All Help Topics Fully Added" src="https://github.com/user-attachments/assets/cc14e187-57aa-4a20-b7a1-1dc28b2c95f7" />
+<img width="352" height="477" alt="Help Topic &#39;Equipment Request&#39; successfully added and now click the &#39;Help Topics&#39; tab button to head back to the page" src="https://github.com/user-attachments/assets/842ac75b-5f59-4ad0-bd8e-10a7f6197d4d" />
+
+<details><summary>See screenshot 10</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+
+<img width="356" height="473" alt="Once back on the &#39;Help Topics&#39; page then for the fourth time click &#39;Add New Help Topic&#39; button to create &#39;Password Reset&#39;" src="https://github.com/user-attachments/assets/481175da-2be6-448e-b858-c5274b5c6c65" />
+
+<details><summary>See screenshot 11</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="353" height="478" alt="Help Topic &#39;Password Reset&#39; is successfully created and now click the &#39;Help Topics&#39; link" src="https://github.com/user-attachments/assets/9f95d95b-8eae-4c90-a4da-6e2dc09e6e2f" />
+
+<details><summary>See screenshot 12</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="353" height="479" alt="Once back on the Help topics page the 5th time now click &#39;Add New Help Topic&#39; button to create &#39;Other&#39;" src="https://github.com/user-attachments/assets/83490a99-fe86-4992-9e2c-d06eaf7646d9" />
+
+<details><summary>See screenshot 13</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="352" height="473" alt="Creating Help Topic &#39;Other&#39; now c;lick &#39;Add Topic&#39; button " src="https://github.com/user-attachments/assets/f1238a78-8769-4bd9-b727-c76368585781" />
+
+<details><summary>See screenshot 14</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="357" height="473" alt="Help Topic &#39;Other&#39; is successfully created and now click the &#39;Help Topics&#39; link to head to the Help Topics page" src="https://github.com/user-attachments/assets/ccff11df-f790-4875-af91-317d2d198962" />
+
+<details><summary>See screenshot 15</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="352" height="476" alt="Now you can see all the Help Topics we created on the &#39;Help Topics&#39; section or page in the osTicket" src="https://github.com/user-attachments/assets/eff74db9-a32f-478c-ad2e-985558289704" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
