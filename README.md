@@ -594,7 +594,7 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 <details><summary>See screenshot 9</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now Help Topic 'Equipment Request' with 'Parent Topic: General Inquiry', Status:Active is successfully created as shown in the image below:</p>
 
 <img width="352" height="477" alt="Help Topic &#39;Equipment Request&#39; successfully added and now click the &#39;Help Topics&#39; tab button to head back to the page" src="https://github.com/user-attachments/assets/842ac75b-5f59-4ad0-bd8e-10a7f6197d4d" />
 
