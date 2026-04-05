@@ -443,31 +443,31 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 
 <img width="321" height="467" alt="Created a User name &#39;Joann&#39; (2)" src="https://github.com/user-attachments/assets/d0846889-c45c-4aef-99c7-933be82caa9b" />
 
-<details><summary>See screenshot 5</summary>
+<details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 <img width="321" height="467" alt="Joann the user is finally created" src="https://github.com/user-attachments/assets/6663dce5-a69c-4a0a-aec8-ead5995a53cf" />
 
-<details><summary>See screenshot 6</summary>
+<details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 <img width="332" height="465" alt="Once inside User Directory click the &#39;Add User&#39; button" src="https://github.com/user-attachments/assets/d93cd135-c24b-455c-9980-f7c0e9a11baf" />
 
-<details><summary>See screenshot 7</summary>
+<details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 <img width="343" height="460" alt="Creating user for Joesph" src="https://github.com/user-attachments/assets/c7021993-5825-4464-be0d-a45a241f3267" />
 
-<details><summary>See screenshot 8</summary>
+<details><summary>See screenshot 7</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
 <img width="333" height="465" alt="Created Joesph account as a user" src="https://github.com/user-attachments/assets/618630f6-9083-4b2b-9648-6397519c2aab" />
 
-<details><summary>See screenshot 9</summary>
+<details><summary>See screenshot 8</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
