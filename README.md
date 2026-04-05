@@ -549,78 +549,51 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
- 
+ <img width="350" height="479" alt="How to going into Help Topics" src="https://github.com/user-attachments/assets/e84cff3f-d5bc-4128-a86a-77c034d0af8d" />
 
- <img width="321" height="467" alt="Step 71 Admin Panel, click Add New Help Topics" src="https://github.com/user-attachments/assets/78b78a13-2f78-44b4-b9d5-fa93c9e11eda" />
-
- <details><summary>See screenshot 2</summary>
-<img src="images/Step 3a.PNG" width="60%" >
-</details>
- 
-
-<img width="321" height="467" alt="Step 73 Admin Panel, Help Topics Added Successfully" src="https://github.com/user-attachments/assets/7b85523d-956e-4d41-abf7-861077b64d25" />
-
- <details><summary>See screenshot 3</summary>
+<details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="321" height="467" alt="In Hot Topics page click &#39;Add New Help Topic&#39;" src="https://github.com/user-attachments/assets/4ecc2d84-53bf-4fb9-9d1f-6e5011221aa0" />
+<img width="343" height="384" alt="Click &#39;Add New Help Topics&#39; again the 2nd time" src="https://github.com/user-attachments/assets/e5661210-5b69-4eb9-899e-bbb0f4a99cb5" />
+
+<details><summary>See screenshot 3</summary>
+<img src="images/Step 3a.PNG" width="60%" >
+</details>
+<img width="354" height="473" alt="Then add the 2nd Help Topics &#39;Personal Computer Issues" src="https://github.com/user-attachments/assets/3c6d3ff4-a844-481c-a891-956da2c6daef" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-
-<img width="321" height="467" alt="Once on Add New Help Topics page add &#39;Business Critical Outage&#39;" src="https://github.com/user-attachments/assets/b18e44fe-d654-4dd1-8b74-ffdd96ce76b9" />
+<img width="338" height="473" alt="Adding 3rd Help Topic Equipment Request" src="https://github.com/user-attachments/assets/0cfe29c9-9563-41fd-b708-0a141c77c4ef" />
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-
-<img width="321" height="467" alt="Click &#39;Add New Help Topics&#39; again the 2nd time" src="https://github.com/user-attachments/assets/84b81b3b-8cdc-4c09-93e2-cfada61b4024" />
+<img width="351" height="473" alt="4th Help Topic Password Resets added" src="https://github.com/user-attachments/assets/beb0ffb5-3ac4-4388-8961-ae52ad51c9f9" />
 
 <details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="321" height="467" alt="Then add the 2nd Help Topics &#39;Personal Computer Issues" src="https://github.com/user-attachments/assets/d77fa876-7d90-4b13-abac-36669c4051b1" />
+<img width="369" height="419" alt="5th time &#39;Add New Help Topic&#39; on help topic page" src="https://github.com/user-attachments/assets/e0024119-d9fc-450a-b80a-c513a9e1fd4f" />
 
 <details><summary>See screenshot 7</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-
-<img width="321" height="467" alt="Click &#39;Add New Help Topics&#39; again the 2nd time" src="https://github.com/user-attachments/assets/afc9a549-9b82-46a4-8738-8e1aa8167a8b" />
+<img width="369" height="419" alt="5th time &#39;Add New Help Topic&#39; on help topic page" src="https://github.com/user-attachments/assets/a952416b-1795-4f08-b961-c9173c826200" />
 
 <details><summary>See screenshot 8</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
-
-<img width="321" height="467" alt="Adding 3rd Help Topic Equipment Request" src="https://github.com/user-attachments/assets/713f4b68-89dd-4ec1-89bd-f0b1153f9edd" />
+<img width="354" height="435" alt="5th Help Topic add &#39;Other&#39;" src="https://github.com/user-attachments/assets/63d562ab-c381-453c-a725-3f64f4204f4a" />
 
 
 <details><summary>See screenshot 9</summary>
 <img src="images/Step 3a.PNG" width="60%" >
 </details>
 
-<img width="321" height="467" alt="4th Help Topic Password Resets added" src="https://github.com/user-attachments/assets/8d2ffed7-98b6-421b-a62c-f10211fcafbc" />
-
-
-<details><summary>See screenshot 10</summary>
-<img src="images/Step 3a.PNG" width="60%" >
-</details>
-
-<img width="321" height="467" alt="5th time &#39;Add New Help Topic&#39; on help topic page" src="https://github.com/user-attachments/assets/2cc8be34-d34b-4dbc-9d23-d733ec6f67bb" />
-
-<details><summary>See screenshot 11</summary>
-<img src="images/Step 3a.PNG" width="60%" >
-</details>
-
-<img width="321" height="467" alt="5th Help Topic add &#39;Other&#39;" src="https://github.com/user-attachments/assets/db8f8b30-8a28-45a5-9c32-facebc013a64" />
-
-<details><summary>See screenshot 12</summary>
-<img src="images/Step 3a.PNG" width="60%" >
-</details>
-
-<img width="321" height="467" alt="All Help Topics Fully Added" src="https://github.com/user-attachments/assets/a274c34e-8c22-400c-ad1a-3d2b7fb3f7c8" />
+<img width="349" height="476" alt="All Help Topics Fully Added" src="https://github.com/user-attachments/assets/cc14e187-57aa-4a20-b7a1-1dc28b2c95f7" />
 
 
 
@@ -638,33 +611,6 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
