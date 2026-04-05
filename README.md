@@ -611,22 +611,22 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 <details><summary>See screenshot 12</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now on the 'help Topics' page for the fifth time click on 'Add New Help Topic' to create 'Other' as shown image below:</p>
 <img width="353" height="479" alt="Once back on the Help topics page the 5th time now click &#39;Add New Help Topic&#39; button to create &#39;Other&#39;" src="https://github.com/user-attachments/assets/83490a99-fe86-4992-9e2c-d06eaf7646d9" />
 
 <details><summary>See screenshot 13</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there you show be on 'New Help Topic' page and for fileds like 'Topic:Other', 'Status:Active', and for 'Parent Topic: General Inquiry' and then click the 'Add Topic' button as shown in the image below:</p>
 <img width="352" height="473" alt="Creating Help Topic &#39;Other&#39; now c;lick &#39;Add Topic&#39; button " src="https://github.com/user-attachments/assets/f1238a78-8769-4bd9-b727-c76368585781" />
 
 <details><summary>See screenshot 14</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once clicking the 'Add Topic' button then you will see a message the Help Topic 'Other' is successfully added as shown in the image below:</p>
 <img width="357" height="473" alt="Help Topic &#39;Other&#39; is successfully created and now click the &#39;Help Topics&#39; link to head to the Help Topics page" src="https://github.com/user-attachments/assets/ccff11df-f790-4875-af91-317d2d198962" />
 
 <details><summary>See screenshot 15</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now you can successfully see all 5 Help Topics added on the 'Help Topics" section in the osTicket ticketing system successfully on page as shown in the image below:</p>
 <img width="352" height="476" alt="Now you can see all the Help Topics we created on the &#39;Help Topics&#39; section or page in the osTicket" src="https://github.com/user-attachments/assets/eff74db9-a32f-478c-ad2e-985558289704" />
 
 
