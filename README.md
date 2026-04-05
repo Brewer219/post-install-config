@@ -578,18 +578,18 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 <details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p> Now once back on 'Help Topics' page section click the 'Add New Help Topic' button as shown in the image below: </p>
 <img width="346" height="478" alt="Click add an new help topic button again to had &#39;personal Computer Issues&#39;" src="https://github.com/user-attachments/assets/0620ab3d-93fc-4690-8aeb-a5551b51c40d" />
 
 <details><summary>See screenshot 7</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p> Now in the 'New help Topic' page for field "Topic: Personal Computer Issues", and for field "Status:Active" and for filed "Parent Topic: Report a Problem" you will select in the dropdown box and then click below the 'Add Topic" as shown in the image below:</p>
 
 <img width="349" height="476" alt="Personal Computer Issue Help Topic is succefully added and now go back to the &#39;Help Topics&#39; page" src="https://github.com/user-attachments/assets/82676325-e7a1-4126-8cd9-f6700d388294" />
 
 <details><summary>See screenshot 8</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now you will see the Help Topic 'Personal Computer Issues' was successfully created and now you can click back at that 'Help Topics' link as shown in the image below:</p>
 <img width="347" height="480" alt="Once on &#39;Help Topics&#39; page the click on &#39;Add New Help Topic&#39; button third time to add &#39;Equipment Request&#39;" src="https://github.com/user-attachments/assets/7efa46ac-b9ce-48ff-bee7-2f06bd0b5802" />
 
 <details><summary>See screenshot 9</summary>
