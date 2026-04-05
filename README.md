@@ -427,49 +427,49 @@ Select Teams from the Agents tab, and select +Add New Team.  For the Name, type 
 
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now navigate to the 'Users' tab on your personal admin page as shwon in the image below:</p>
 <img width="321" height="467" alt="Once in Agent Panel click on Users tab to create new users" src="https://github.com/user-attachments/assets/831d5471-1faf-4cff-9191-8144fb8bde22" />
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From clicking the 'Users' tab and on the 'Users Directory' page section now click "Add User" as shown image below:</p>
 
 <img width="321" height="467" alt="Once inside User Directory click the &#39;Add User&#39; button" src="https://github.com/user-attachments/assets/8c6474ae-54ff-40f8-87c9-a7de85e4f37d" />
 
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>From there a box will pop-up name "Lookup or create a user" and below under "Create New User:" your going to type in the "Email Address: Joann@lognpacific.com" and in the "Full Name:" type "Joann" and the below at the very bottom of the box click the "Add User" button as shown in the image below:</p>
 
 <img width="321" height="467" alt="Created a User name &#39;Joann&#39; (2)" src="https://github.com/user-attachments/assets/d0846889-c45c-4aef-99c7-933be82caa9b" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once you click the "Add User" button then you will see Joann profile will pop-up as shown in the image below:</p>
 
 <img width="321" height="467" alt="Joann the user is finally created" src="https://github.com/user-attachments/assets/6663dce5-a69c-4a0a-aec8-ead5995a53cf" />
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now click "add User" button again to create a new user called "Joesph" shown in the image below:</p>
 
 <img width="332" height="465" alt="Once inside User Directory click the &#39;Add User&#39; button" src="https://github.com/user-attachments/assets/d93cd135-c24b-455c-9980-f7c0e9a11baf" />
 
 <details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>After click that "Add User" button again now the "Lookup or create a user" box will popup and once again in the "Create New User:" section you will type in the field "Joesph@lognpacific.com" and in the "Full Name:" field type "Joesph" and then down below click "Add User" button as shown in the image below:</p>
 
 <img width="343" height="460" alt="Creating user for Joesph" src="https://github.com/user-attachments/assets/c7021993-5825-4464-be0d-a45a241f3267" />
 
 <details><summary>See screenshot 7</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now after clicking the "Add User" button once more again you can or you have now create a profile for the new user "Joesph" as shown in the image below:</p>
 
 <img width="333" height="465" alt="Created Joesph account as a user" src="https://github.com/user-attachments/assets/618630f6-9083-4b2b-9648-6397519c2aab" />
 
 <details><summary>See screenshot 8</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now in 'User Directory' page you can visibly see the new users "Joann" and "Joesph" as shown in the image below:</p>
 
 <img width="350" height="478" alt="User Directory with All the Users Joesph and Joann" src="https://github.com/user-attachments/assets/d6c4ce71-24fc-4858-9825-8242aeaec637" />
 
@@ -488,42 +488,42 @@ Back to the Admin panel, select Manage tab, and select SLA section Select +Add N
 
 <details><summary>See screenshot 1</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now on your personal admin page and clicking on "Admin Panel" place mouse on the 'Manage' tab as shown in the image below:</p>
 <img width="356" height="470" alt="Going from Users page to Admin Panel click &#39;Manage&#39; tab" src="https://github.com/user-attachments/assets/63271760-287f-4e3b-ab04-c45bcc8abb4d" />
 
 <details><summary>See screenshot 2</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Once you place mouse on 'Manage' tab then click 'SLA' option shown in the image below:</p>
 
 <img width="356" height="435" alt="Manage tab getting to the SLAs" src="https://github.com/user-attachments/assets/795791ad-e5ef-4a82-9959-200f7fe2de23" />
 
 <details><summary>See screenshot 3</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now after clicking the 'SLA' option on the 'Manage' tab you'll be on the "Service Level Agreements" page inside of the osTicket and you will click the "Add New SLA Plan" button shown in the image below:</p>
 
 <img width="356" height="467" alt="Once on SLA page the click &#39;Add New SLA Plan&#39; Button" src="https://github.com/user-attachments/assets/6cd16d69-90c3-4df9-8842-8f8dbf4d223d" />
 
 <details><summary>See screenshot 4</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>After clicking the "Add New SLA Plan" but you will land on the "Add New SLA Plan" page and below the "Name:" field with a dropdown box and you will click the dropdown box and select "Sev-A" and for the "Status:" filed make sure its "Active", and then in the "Grace Period:" field type "1" as "1 hour" and for "Schedule:" let it be selected in the dropdown as "24/7" and then below click the yellow button "Add Plan" as shown in the image below:</p>
 
 <img width="340" height="473" alt="Creating New SLA Sev A" src="https://github.com/user-attachments/assets/0661c956-6c44-4295-b75d-baeaa22689fd" />
 
 <details><summary>See screenshot 5</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>The from there the second time click the "Add New SLA Plan" and in the "Name:" field click the dropdown and select "Sev-B" and make sure in "Status:" field put 'Active' and in "Grace Period:" type "4", and in the "Schedule:" in field type "24/7" and then click below the "Add Pllan" button as shown in the image below:</p>
 
 <img width="356" height="475" alt="Adding New SLA Sev B" src="https://github.com/user-attachments/assets/7530b77b-3a1e-4535-b699-2de768455d6c" />
 
 <details><summary>See screenshot 6</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now for the third time once you click the "Add New SLA Plan" then you will go back to the "Add New SLA Plan" page and in the "Name:Sev-C" and "Status:Active" and "Grace Period: 8 hours" and "Schedule: Monday-Friday, 8am-5pm with U.S. Holiday" and then below with same routine click "Add Plan" as shown in the image below:</p>
 
 <img width="345" height="470" alt="Adding New SLA Sev C" src="https://github.com/user-attachments/assets/e287da04-081c-4c98-8253-51f9bb40a855" />
 
 <details><summary>See screenshot 7</summary>
 <img src="images/Step 3a.PNG" width="60%" >
-</details>
+</details><p>Now once you head back to the 'Manage' tab and click "SLA" as an option and land on the "Service Level Agreements" you will see all 3 SLA's were successfully added plans as shown in image below:</p>
 
 <img width="340" height="470" alt="All SLA are successfully created and Now go to &#39;Help Topics&#39;" src="https://github.com/user-attachments/assets/6b73a929-15be-45d5-8451-1e718717c385" />
 
